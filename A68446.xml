@@ -1,0 +1,2906 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble supplicacion vnto God for the restoring of hys holye woorde, vnto the churche of Englande, mooste mete to be sayde in these oure dayes, euen with teares of euery true [and] faythfull English harte.</title>
+            <author>Becon, Thomas, 1512-1567.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1554</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68446</idno>
+            <idno type="STC">STC 1730</idno>
+            <idno type="STC">ESTC S110450</idno>
+            <idno type="EEBO-CITATION">99845990</idno>
+            <idno type="PROQUEST">99845990</idno>
+            <idno type="VID">10925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 25:33, 222:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble supplicacion vnto God for the restoring of hys holye woorde, vnto the churche of Englande, mooste mete to be sayde in these oure dayes, euen with teares of euery true [and] faythfull English harte.</title>
+                  <author>Becon, Thomas, 1512-1567.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By J. Lambrecht?] at the signe of the golde[n] bibell,</publisher>
+                  <pubPlace>Imprynted at Strasburgh in Elsas [i.e. Wesel?] :</pubPlace>
+                  <date>In the moneth of Auguste. the yeare of our Lord. 1554.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Becon.</note>
+                  <note>The imprint is false. Actual place of publication and printer's name conjectured by STC.</note>
+                  <note>Signatures: A-D E⁴ (E4 blank).</note>
+                  <note>Formerly identified as STC 10384 and also 23435.</note>
+                  <note>Identified as STC 10384 on UMI microfilm reel 222.</note>
+                  <note>Reproductions of the originals in Cambridge University Library and the Bodleian Library.</note>
+                  <note>Appears at reel 25 (Cambridge University Library. copy) and at reel 222 (Bodleian copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Publication and distribution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10925:1"/>
+            <pb facs="tcp:10925:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> An humble
+ſupplicacion vnto God / for the
+reſtoringe of hys holye woorde / vnto the
+churche of Englande / mooſte mete
+to be ſayde in theſe oure dayes / 
+euen with teares of euery
+true &amp; faythfull En<g ref="char:EOLhyphen"/>gliſh
+harte. ❀</p>
+            <q>
+               <bibl>
+                  <hi>Eſa.</hi> 59.</bibl>
+               <p>☞ Beholde / the Lordes ha<g ref="char:cmbAbbrStroke">̄</g>de is not
+ſo ſhortened / that it ca<g ref="char:cmbAbbrStroke">̄</g> not help / 
+neither is his eare ſo ſtop<g ref="char:EOLhyphen"/>ped
+/ that it maye not
+heare. (❀)</p>
+            </q>
+            <p>¶Imprynted at Strasburgh
+in Elſas / at the ſigne of the golde<g ref="char:cmbAbbrStroke">̄</g> Bi<g ref="char:EOLhyphen"/>bell
+/ In the moneth of Auguſte.
+the yeare of our LORD.
+1554.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:10925:2" rendition="simple:additions"/>
+            <pb facs="tcp:10925:2"/>
+            <head>The ſupplica<g ref="char:EOLunhyphen"/>cion.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Moſte dere / gentle,<note place="margin">Gen. 1. Sap. 8. Ioan. 1. Pſal. 95. Prou. 21.</note> lo<g ref="char:EOLhyphen"/>uing
+and merciful father / ma<g ref="char:EOLunhyphen"/>ker
+/ ruler / conſeruer / and diſ<g ref="char:EOLhyphen"/>poſer
+of all thinges / bothe in
+heauen &amp; in earthe / withoute
+whoſe will / ordinaunce and commaunde<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t
+nothing is done that is done / in whoſe
+handes all the coaſtes of the earthe and the
+hartes of princes and of all other thy hu<g ref="char:EOLhyphen"/>mayne
+creatures are / to be ruled / ordered
+and bent / as thy godly wiſedome dothe ap<g ref="char:EOLhyphen"/>pointe
+/ from whome alſo / as from a moſt
+righteous iudge / commeth proſperitie and<note place="margin">Eccleſ. 11. Deut. 28. Pſal. 148 Amos. 8. Math. 9.</note>
+aduerſitie / health and ſyckeneſſe / wealth &amp;
+ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſones / peace and trouble / bleſſinges and
+plagues / the gift of the holy worde / and the
+takinge awaye of theſame / the ſendinge of
+faythful workeman into thy harueſt / &amp; the
+diſplaſinge of them agayn / the apointeme<g ref="char:cmbAbbrStroke">̄</g>t<note place="margin">Eccle. 10. Iob. 34.</note>
+of godly magiſtrates / and ſetting vp of hy<g ref="char:EOLhyphen"/>pocrites
+and tyrauntes for the puniſhment
+of the diſobedient / vngodly and ſtifnecked
+people: We fele / we fele / yea / we Engliſhe
+men fele / (O father of mercies / and God<note place="margin">2. Cor. 1</note>
+               <pb facs="tcp:10925:3"/>
+of all conſolacion) ſo greate a dongehiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of<note place="margin">Iere. 17.</note>
+ſynne within vs / ſuch vilenes / ſuch corrup<g ref="char:EOLunhyphen"/>cion
+/ ſuch vnthankefulnes / and ſuche diſ<g ref="char:EOLhyphen"/>obedience
+againſte the and thy bleſſed wil / 
+that except thou haddeſt geuen vs a com<g ref="char:EOLhyphen"/>maundeme<g ref="char:cmbAbbrStroke">̄</g>t
+to praye / and alſo ioyned vnto<note place="margin">Prai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</note>
+theſame / a faithful and louing promiſe that
+thou wilt heare vs / whan ſoeuer we cal on
+the / in the name of Ieſus Chriſt thy derely
+beloued ſonne ouxe Lorde / and oure alone
+ſauioure / we neuer durſte ſoo muche / as
+once too lifte vp oure eyes vnto the / and to
+approche vnto the gracious and mercifull
+throne of thy diuine maieſtie / for a redreſſe
+of thoſe euils / wherewith at thys preſent
+(alas for ſorow) we are miſerably / yet wor<g ref="char:EOLunhyphen"/>thely
+plagued / puniſhed and tormented.
+But o heauenly father / and oure moſte be<g ref="char:EOLhyphen"/>nigne
+and gentle Lorde / thou graciouſly co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ſidering
+bothe oure vilenes and weakenes
+of conſcience / haſte notwithſtanding geuen
+vs a commaundement by thy ſeruau<g ref="char:cmbAbbrStroke">̄</g>t <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>uid
+not to feare / but franckely too fle vnto
+the / as vnto a mooſte ſtronge mightie and
+inuincible bulwarke / by feruent prayer in
+all oure troubles / and haſte alſo promiſed / 
+not for anye woorkes of righteouſnes that<note place="margin">Titus. 3.</note>
+we haue done / but for thyne exceding great
+and vnſpeakable mercies ſake / to heare vs
+and to ſatiſfye oure requeſtes / ſayeng: Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:10925:3"/>
+on me in the daye of thy trouble / and I wil<note place="margin">Pſal. 50.</note>
+delyuer the / and thou ſhalte honoure me.
+Here haue we poore wretches vnto oure
+greate comforte / bothe a commaundement
+of the to praye / &amp; alſo a promyſe that thou
+wilte hear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vs.</p>
+            <p>And thy moſte dere and onely begotten<note place="margin">Math. 7. Luce. 11.</note>
+ſonne commaundeth vs not onely to aſke / 
+too ſeke / and too knocke / but he alſo promy<g ref="char:EOLhyphen"/>ſeth
+/ that whoſoeuer wil axe / theſame ſhal
+receaue / whoſoeuer will ſeke / theſame ſhal
+fynde / and to him that knocketh / it ſhall be<note place="margin">Ioan. 14.</note>
+opened / yea / his promyſe is / that whatſo<g ref="char:EOLhyphen"/>euer
+we axe of the in hys name / thou wilte
+gyue it vs. We beynge encouraged / and
+as it were vnderpropped with this thy gra<g ref="char:EOLunhyphen"/>cious
+commaundemente to praye / and lo<g ref="char:EOLhyphen"/>uinge
+promyſe too be hearde / are bolde at
+this preſente / in the name of Chriſte too
+come vnto the merciful thron of thy godly
+maieſtie / and before theſame too poore ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+the ſorowful griefes of oure moſt ſorowful
+hartes / moſt hu<g ref="char:cmbAbbrStroke">̄</g>bly beſechi<g ref="char:cmbAbbrStroke">̄</g>g the for thy mer<g ref="char:EOLunhyphen"/>cies
+ſake / for thy promiſes ſake / for thy na<g ref="char:EOLhyphen"/>mes
+ſake / yea / for thy dere Chriſtes ſake / 
+that thou turni<g ref="char:cmbAbbrStroke">̄</g>g away thine eyes fro<g ref="char:cmbAbbrStroke">̄</g> oure
+ſinnes / wilt behold thin holy anoi<g ref="char:cmbAbbrStroke">̄</g>ted / who<g ref="char:cmbAbbrStroke">̄</g>
+               <note place="margin">1. Tim. 2. 1. Ioan. 2. Math. 17 Marc. 9</note>
+thou haſt made our media <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or &amp; aduocat for
+whoſe ſake thou haſt ope<g ref="char:cmbAbbrStroke">̄</g>ly declared eue<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g>
+the heaue<g ref="char:cmbAbbrStroke">̄</g>s / that thou art wel pleaſed with
+<pb facs="tcp:10925:4"/>
+and for his dignitie and worthines graci<g ref="char:EOLhyphen"/>ouſly<note place="margin">Luc. 9. 2. Pet. 1.</note>
+heare the lamentable peticions &amp; hu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ble
+requeſtes of oure brooſed hartes / and
+troubled conſciences.</p>
+            <p>Ah moſte dere father / great are our mi<g ref="char:EOLhyphen"/>ſeries
+/ but greater are our ſynnes / greuous
+are oure troubles / but more greuous are
+the wickedneſſes / whiche we moſte wret<g ref="char:EOLhyphen"/>ched
+ſynners haue committed againſte thy
+fatherly goodnes / intollerable are the pla<g ref="char:EOLhyphen"/>gues
+/ that be layde vpon vs / but thoſe tho<g ref="char:EOLhyphen"/>row
+oure vnthankefulnes and wicked ly<g ref="char:EOLhyphen"/>ninge
+(we frely confeſſed) haue we mooſte
+worthely deſerued / whiche haue ſo ofte de<g ref="char:EOLhyphen"/>ſeru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d
+the very tormentes of hell fyre / alas
+wretches that we are / and yet are we com<g ref="char:EOLhyphen"/>pelled
+euen of neceſſitie (for vayne is the<note place="margin">Iere. 17.</note>
+helpe that commeth from man / yea / curſed
+be he / that putteth his truſte in man / &amp; ma<g ref="char:EOLhyphen"/>keth
+fleſh his arme) to fle for ſoccoure vnto
+the / whome we haue ſo ofte &amp; ſo greuouſly
+offended / whoſe righteouſnes notwithſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ding
+in puniſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hinge ſynners whan we be<g ref="char:EOLhyphen"/>holde
+/ we begynne to deſpayre and too caſte
+awaye all hope / but whann we beholde
+thy mercy / ſetforth in the precious bloude
+of thy moſte dere ſonne Chriſte Ieſu oure
+Lorde / we take a good harte vnto vs / and
+ſetting before our eyes thy moſte louinge / 
+ſwete and fatherly promiſes / in hearing vs
+<pb facs="tcp:10925:4"/>
+for Chriſtes ſake / we are encouraged to be<g ref="char:EOLhyphen"/>leue
+/ that although our ſynnes be neuer ſo
+great and greuous / neuer ſo abhominable
+and intollerable / &amp; we were neuer ſo wic<g ref="char:EOLhyphen"/>ked
+and filthy ſynners / yet for thy mercies
+ſake / for thy promiſe ſake / for thy names ſa<g ref="char:EOLhyphen"/>ke
+/ yea / for thy dere chriſtes ſake thou wilt
+mercifully heare vs / and graunte vs oure
+earneſt requeſtes / yea / and that ſo muche
+the more / becauſe the matter is not onelye
+oures / but thyne alſo / agayne / ſeynge we
+come not vnto the to deſyre longe lyfe / gold
+and ryches with the wicked wordlynges / 
+nor yet to craue at thy hande wealth &amp; plea<g ref="char:EOLhyphen"/>ſure
+/ biſhoprikes and benefices / Deanries / 
+Prebendes and ſuch other worldly promo<g ref="char:EOLunhyphen"/>cions
+with the ſwiniſhe and beaſtlye Epi<g ref="char:EOLhyphen"/>cures
+/ whoſe God their bellye is / but oure<note place="margin">Phil. 3. The Chri<g ref="char:EOLhyphen"/>ſten ma<g ref="char:cmbAbbrStroke">̄</g>s de<g ref="char:EOLhyphen"/>ſyre.</note>
+humble ſupplicacion / our earneſt requeſt / 
+oure hartye deſyre is / onely that thou wilt
+conſyder thyne owne glory / the halowinge
+of thy bleſſed name / the auauncemente off
+thy glorious kyngdom / the accomplyſhme<g ref="char:cmbAbbrStroke">̄</g>t
+of thy heaue<g ref="char:cmbAbbrStroke">̄</g>ly wil / the honour of thy only
+begotte<g ref="char:cmbAbbrStroke">̄</g> ſonne / the ſettingforth of hys holy
+Goſpel / the purenes of the Chriſten reli<g ref="char:EOLhyphen"/>gion
+/ the ſyncere preachinge of thy lyuely
+worde / the true adminiſtracio<g ref="char:cmbAbbrStroke">̄</g> of thy whol<g ref="char:EOLhyphen"/>ſome
+ſacramentes / &amp; the ſaluacion of ſuche
+as thy derely beloued ſonne hathe boughte
+<pb facs="tcp:10925:5"/>
+from the tyranny of ſathan / with the pryce
+of hys moſte precious and dere hart bloud.
+Theſe thinges / theſe thinges (o heauenly fa<g ref="char:EOLunhyphen"/>ther)
+do we poore wretches craue and begge
+at thy merciful hande. Theſe thinges / theſe
+thinges<g ref="char:punc">▪</g> euen with ſorowfull groninges &amp;
+lame<g ref="char:cmbAbbrStroke">̄</g>table teares do we miſerable captiues
+deſyre the to conſyder / and not ſo to ſuffer
+thine aduerſaries to triumphe / as thoughe
+there were no God at all / no Chriſte / no
+Goſpell / no faythe / no true religion / but
+whatſoeuer pleaſeth the hypocrites to co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>maunde
+thy people to beleue. Thou calleſt
+thy ſelf a ielous God / why than doeſt thou<note place="margin">Exod. 20</note>
+ſuffer thy people / thy congregacion / thy
+flocke / thyne heritage / to be thus ſeduced &amp;
+ledde awaye from the vnto all kynde of ſpi<g ref="char:EOLunhyphen"/>ritual
+fornicacion / and abhominable whor<g ref="char:EOLunhyphen"/>dome
+by that Antichriſte of Rome / <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat
+greate Baal / that ſtoute Nemroth / that<note place="margin">Peſtilences of the Chri<g ref="char:EOLhyphen"/>ſten co<g ref="char:cmbAbbrStroke">̄</g>mon vvealte.</note>
+fals prophet / that beaſt / that whore of Ba<g ref="char:EOLhyphen"/>bylon
+/ that ſonne of perdicion / and by hys
+abhominable adherentes / Cardinalles / Ar<g ref="char:EOLhyphen"/>chebiſchoppes
+/ Biſchoppes / Suffraganes / 
+Archedeacons / Deanes / Prouoſtes / Pre<g ref="char:EOLhyphen"/>be<g ref="char:cmbAbbrStroke">̄</g>daries
+/ Commiſſaries / Parſonnes / Vi<g ref="char:EOLhyphen"/>cares
+/ Purgatorierakers / Prieſtes / Mon<g ref="char:EOLhyphen"/>kes
+/ Friers / Chanons / Nonnes / Anckers / 
+Anckreſſes / Pardonners / Proctors / Scri<g ref="char:EOLunhyphen"/>bes
+/ Officialles / So<g ref="char:cmbAbbrStroke">̄</g>ners / Lawers / Maſſe<g ref="char:EOLhyphen"/>mongers
+<pb facs="tcp:10925:5"/>
+/ Can<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſtes / Papiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es / Antichr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtes
+/ Ma<g ref="char:cmbAbbrStroke">̄</g>moniſtes / Epicures / Libert<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es / 
+With all the table of beaſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lye hypocrytes
+that haue receued the beaſtes mar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / which
+do not hing els than ſeke / how they may eſta<g ref="char:EOLunhyphen"/>bliſhe
+their Antichriſtian kyngdom / by ſup<g ref="char:EOLhyphen"/>preſſinge
+thy holy worde / and leadinge thy
+people into all kynde of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lyndenes / errours
+and lyes? Thou calleſt thy ſelf a Lorde / and
+thou ſayeſte / that thou wilt gyue thy glory
+to none other / nor thy prayſe vnto grauen
+Imag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s / howe commeth it than to paſſe / 
+that thou ſuffreſt thy glory ſo too decaye in
+the realme of Englande / ſo many to ſteale
+awaye thy prayſe and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onoure / by ſayenge
+their idolatrous and deueliſhe maſſes / by<note place="margin">Ab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omina<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lons.</note>
+miniſteringe a ſorte of Heytheniſh and Ie<g ref="char:EOLhyphen"/>wiſhe
+cerem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nies / by prayenge vntoo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead
+ſainctes / by blottinge oute of the temples / 
+thy holy lawe there written / according to
+thy commaundement / for the edifyenge of
+thy people / and by ſettinge vp in the ſteade
+therof Idols and Mawmettes / clea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e con<g ref="char:EOLhyphen"/>trary<note place="margin">Deut. 4. Heb. 12.</note>
+to thy bleſſed worde? Thou calleſt
+thy ſelf a Lyo<g ref="char:cmbAbbrStroke">̄</g> &amp; a co<g ref="char:cmbAbbrStroke">̄</g>ſumi<g ref="char:cmbAbbrStroke">̄</g>gfyre / &amp; threateneſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+vtter deſtruccio<g ref="char:cmbAbbrStroke">̄</g> vnto thin aduerſaries / whi
+ſuffereth thou tha<g ref="char:cmbAbbrStroke">̄</g> theſe Antichriſtes thus to
+ryſe / ro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e / &amp; rage / agai<g ref="char:cmbAbbrStroke">̄</g>ſt the teſtame<g ref="char:cmbAbbrStroke">̄</g>t of thy
+moſt dere ſonne / to beat doune thy trueth / 
+to call thy holy lawe hereſy / to baniſhe the
+preachinge of the Goſpel / &amp; the true <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of
+<pb facs="tcp:10925:6"/>
+the Sacramentes / &amp; to ſeke the deſtruccio<g ref="char:cmbAbbrStroke">̄</g>
+of ſo many as vnfaynedly loue the and thy
+bleſſed worde.</p>
+            <p>Thou promiſeſte / that ſo many as hate<note place="margin">Pſal. 129.</note>
+Syo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / that is to ſaye / thy faithfull congre<g ref="char:EOLhyphen"/>gacion
+/ ſhalbe confounded and broughte to
+noughte / howe cometh it tha<g ref="char:cmbAbbrStroke">̄</g> to paſſe / that
+the wicked now floriſh like the grene olyue
+tree / liuing in all wealth / pompe and plea<g ref="char:EOLhyphen"/>ſure
+/ and thy people / whome thou haſt ſea<g ref="char:EOLhyphen"/>led
+with thy holy ſpirite vnto euerlaſting
+lyfe / are moſte miſerablye entreated / ſome
+banniſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed / ſome in pryſon / ſome cruellye
+murthered / but all in moſte ſorowfull mi<g ref="char:EOLhyphen"/>ſeries
+/ and miſerable ſorowes?</p>
+            <p>Thou promiſeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e / that thou wilt deliuer<note place="margin">Ezec. 34.</note>
+thy flocke from the hande of the wicked
+ſhepehardes / and that thou thy ſelfe wilte
+fede them in moſte pleaſaunt and ſwete / 
+paſtures: ah good God / how cometh it tha<g ref="char:cmbAbbrStroke">̄</g>
+to paſſe / that wher as before thy ſhepe were
+f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dde with the confortable meate of thy glo<g ref="char:EOLhyphen"/>rious
+goſpel / by the miniſterie of the godly
+learned preachers / the faithfull ſhepehar<g ref="char:EOLhyphen"/>des
+are driuen awaye / and a rable of raue<g ref="char:EOLhyphen"/>ning<note place="margin">Acto. 20</note>
+wolfes are braſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e into the ſhepefolde / 
+which ſpare not the flocke / but cruelly mur<g ref="char:EOLunhyphen"/>der
+/ not ouly their bodies by <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſonning
+hanging / heading and brenning them / but
+their ſoulc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo by teaching them wicked
+<pb facs="tcp:10925:6"/>
+and peſtilent doctrine?</p>
+            <p>Thy moſte dere ſonne / bothe promiſed &amp;
+prophecied / that euery plante / whiche thou
+the heauenly father haſte not planted / <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hal
+be plucked vp by the rootes / but we ſe it o<g ref="char:EOLhyphen"/>therwiſe<note place="margin">Math. 15.</note>
+come to paſſe in the realm of Eng<g ref="char:EOLunhyphen"/>lande.
+For ſuche plantes / as the deuill and
+hys chaplens had planted / were thorowe
+the diligence and godly zele of thy ſeruaun<g ref="char:EOLunhyphen"/>tes
+kynge Henry the eyghte / and kyng Ed<g ref="char:EOLhyphen"/>ward
+the ſyxte / moſte bleſſedly plucked vp / 
+and thy holy ordinaunces agayne planted
+vnto the greate ioye and vnſpeakeable con<g ref="char:EOLhyphen"/>forte
+of all the faithfull. But now / thorow
+the tyranny and blynde zele of certayne / are
+thy bleſſed ſtatutes plucked vp by the roo<g ref="char:EOLhyphen"/>tes
+/ and ſet in agayn / are the damnable de<g ref="char:EOLhyphen"/>crees
+/ and crocked conſtitucions of Anti<g ref="char:EOLhyphen"/>chriſte
+/ vnto the excedinge greate griefe / ſo<g ref="char:EOLhyphen"/>row
+and penſyuenes of all faithfull Chri<g ref="char:EOLhyphen"/>ſtians.
+Ah Lorde God / ſeme theſe thinges
+matters of ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al importans / before the eyes
+of thy diu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne maieſtie? Can theſe outragi<g ref="char:EOLhyphen"/>ous
+thi<g ref="char:cmbAbbrStroke">̄</g>ges be done in earth / &amp; thou wincke
+at them in heauen? Arte not thou he / that
+kepeth Iſrael?<note place="margin">Pſal. 121. Eſa. 59.</note> But he neither ſleapeth nor
+ſlombreth / ſayeth the Pſalmographe / that
+kepeth Iſrael. Aryſe therfore / o Lord / why
+ſleapeſt thou? Is thy eare ſo ſtopped / that
+thou canſte no more heare? And is thy ha<g ref="char:cmbAbbrStroke">̄</g>de
+<pb facs="tcp:10925:7"/>
+ſo ſhortened / that it can nomore healpe? O
+Lord / ariſe for thy mercies ſake / &amp; helpe vs.
+Haſte the to deliuer vs for thy name ſake / 
+for great are oure troubles / &amp; intollerable
+are oure miſeries. Ah Lorde / voucheſafe
+once again to looke doune<g ref="char:EOLhyphen"/>fro<g ref="char:cmbAbbrStroke">̄</g> heauen / &amp; co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſyder
+the lamentable ſtate of the realme off
+England / &amp; of the godly inhabitau<g ref="char:cmbAbbrStroke">̄</g>tes ther<g ref="char:EOLhyphen"/>of
+/ which deſyre nothing ſo greatly / as to ſe
+thy true honour perfectly ſetforth / thy holy
+worde truly preached / the Chriſten religion
+hyghly aua<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nced / and thy holy name ſanc<g ref="char:EOLhyphen"/>tified
+/ prayſed / magnified &amp; commended for
+euer.</p>
+            <p>Ah Lorde God / heretofore in the time of<note place="margin">Kinge He<g ref="char:cmbAbbrStroke">̄</g>ry the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yght<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+thy bleſſinge / thou gaueſt to the realme off
+Englande a man to reygne ouer it / vnder
+whome the churche was purged of many
+enormities &amp; great abuſes / &amp; the true reli<g ref="char:EOLhyphen"/>gion
+began to haue good ſucceſſe. And wha<g ref="char:cmbAbbrStroke">̄</g>
+it was thy godly pleaſure too call hym fro<g ref="char:cmbAbbrStroke">̄</g>
+this vale of miſery / vnto thy heaue<g ref="char:cmbAbbrStroke">̄</g>ly king<g ref="char:EOLhyphen"/>dome
+/ thou gaueſt vnto vs his ſonne to be<note place="margin">Kyng Ed<g ref="char:EOLhyphen"/>vvarde the ſixte.</note>
+oure Kynge / a Prince / althoughe yonge in
+yeares / &amp; tender in age / yet auncieut in the
+knowledge of the / of thy ſonne Chriſt / &amp; of
+thy holy worde / &amp; as another Ioſias / alto<g ref="char:EOLhyphen"/>gether
+bent vtterly to wedeout al fals reli<g ref="char:EOLunhyphen"/>gion
+/ ſuperſticio<g ref="char:cmbAbbrStroke">̄</g> / hypocriſye / papiſtrie / &amp;c. &amp;
+after a moſte perfect manner / to ſet vp thy
+<pb facs="tcp:10925:7"/>
+holy religion / &amp; to auau<g ref="char:cmbAbbrStroke">̄</g>ce the har<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y fauou<g ref="char:EOLhyphen"/>rers
+of theſame / vnto the great &amp; wo<g ref="char:cmbAbbrStroke">̄</g>derful
+exa<g ref="char:cmbAbbrStroke">̄</g>ple of all Chriſten princes. But alas for
+ſorow / this moſt goodly &amp; godly Impe / this
+moſte Chriſte<g ref="char:cmbAbbrStroke">̄</g> kyng / this noble yo<g ref="char:cmbAbbrStroke">̄</g>ge Ioſias
+was for oure vnthankefulnes &amp; wicked ly<g ref="char:EOLhyphen"/>uing
+taken awaye from vs / before the tyme
+vnto our great ſorow &amp; vnſpeakable hartes
+diſeaſe. Whoſe death was the beginning / &amp;
+is now ſtill the co<g ref="char:cmbAbbrStroke">̄</g>tinuau<g ref="char:cmbAbbrStroke">̄</g>ce of all our ſoro<g ref="char:EOLhyphen"/>wes
+/ griefes &amp; miſeries. For in the ſteade of
+that verteous prince / thou haſte ſet to rule
+ouer vs an woma<g ref="char:cmbAbbrStroke">̄</g> / whom nature hath for<g ref="char:EOLhyphen"/>med<note place="margin">1. Tim. 2.</note>
+to be in ſubieccio<g ref="char:cmbAbbrStroke">̄</g> vnto ma<g ref="char:cmbAbbrStroke">̄</g> / &amp; who<g ref="char:cmbAbbrStroke">̄</g> thou
+by thyne holy Apoſtle co<g ref="char:cmbAbbrStroke">̄</g>maundeſt to kepe
+ſile<g ref="char:cmbAbbrStroke">̄</g>ce / &amp; not to ſpeake in the co<g ref="char:cmbAbbrStroke">̄</g>gregacio<g ref="char:cmbAbbrStroke">̄</g>. Ah
+Lord / to take away the empire fro<g ref="char:cmbAbbrStroke">̄</g> a ma<g ref="char:cmbAbbrStroke">̄</g> / &amp;
+to gyue it vnto a woma<g ref="char:cmbAbbrStroke">̄</g> / ſemeth to be an eui<g ref="char:EOLunhyphen"/>de<g ref="char:cmbAbbrStroke">̄</g>t
+toke<g ref="char:cmbAbbrStroke">̄</g> of thyne a<g ref="char:cmbAbbrStroke">̄</g>ger toward vs Engliſh<g ref="char:EOLunhyphen"/>men.
+<note place="margin">Eſa. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> For by the Prophet<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / thou beyng diſ<g ref="char:EOLhyphen"/>pleaſed
+with thy people / threatneſt to ſette
+wome<g ref="char:cmbAbbrStroke">̄</g> to rule ouer the<g ref="char:cmbAbbrStroke">̄</g> / as people vnwor<g ref="char:EOLhyphen"/>thy
+to haue lawful / natural &amp; mete gouer<g ref="char:EOLhyphen"/>nors
+to reign ouer the<g ref="char:cmbAbbrStroke">̄</g>. And verely though
+we fynd / that wome<g ref="char:cmbAbbrStroke">̄</g> ſomtime bare rule a<g ref="char:EOLhyphen"/>mo<g ref="char:cmbAbbrStroke">̄</g>g
+thy people / yet do we rede / that ſuche
+as ruled &amp; were quenes / were for the moſte
+part wicked / vngodly / ſuperſticious / &amp; geue<g ref="char:cmbAbbrStroke">̄</g>
+to idolatry / &amp; to al filthy abhominacio<g ref="char:cmbAbbrStroke">̄</g> / as
+we may ſe in the hiſtories of quene Ieſabel / <note place="margin">3. Reg. 19. 4. Reg. 11</note>
+quene Athalla / quene Herodias / &amp; ſuch like.
+<pb facs="tcp:10925:8"/>
+Ah Lorde God / we dare not take vpon vs<note place="margin">Math. 14</note>
+to iudge anye creature / for vnto the alone
+are the ſecretes of all hartes knowne / but
+of this are we ſure / that ſynce ſhe ruled / 
+whyther of her owne diſpoſicton / or of the
+prouocacion of a certayne wylde bore / ſuc<g ref="char:EOLhyphen"/>ceſſor<note place="margin">Pſal. 80. Acto. 23.</note>
+too Ananias that whygh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie daubed
+waulle / we know not / thy vineyarde is vt<g ref="char:EOLhyphen"/>terly
+rooted vp and layde waſte / thy true re<g ref="char:EOLunhyphen"/>ligion
+is banniſhed / and popiſhe ſuperſti<g ref="char:EOLhyphen"/>cion<note place="margin">The clo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of papiſtes, too deceaue the ſimple.</note>
+hath preuayled / yea / &amp; that vnder the
+coloure of the catholicke churche / and the
+olde auncient fayth / whan notwithſtanding
+darkenes is not more contrary to light / nor
+colde vnto heate / than their procedinges
+are co<g ref="char:cmbAbbrStroke">̄</g>trary to the trueth of thy holy worde
+if the practiſe and doctrine of the true catho<g ref="char:EOLunhyphen"/>licke
+churche / (we ſpeake of the Patriar<g ref="char:EOLhyphen"/>ches
+and Prophetes / of Chriſte and hys
+Apoſtles / and of ſo many godly people / as
+lyued from Adam vnto the tyme that Anti<g ref="char:EOLunhyphen"/>chriſt
+/ the biſſhop of Rome ſet vp his kyng<g ref="char:EOLhyphen"/>dome<note place="margin">2 Theſ. 2.</note>
+/ and auau<g ref="char:cmbAbbrStroke">̄</g>ced hym ſelf aboue all that
+is called God) might be the iudge / &amp; go for
+payment. For beſydes the geuinge of the
+kyngdome / vnto the rule of a woman / O
+Lorde / we moſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e humbly beſeche the / to co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſider
+that outragious floudes of moſte gre<g ref="char:EOLhyphen"/>uous
+enormities / haue braſte in and ouer<g ref="char:EOLhyphen"/>flowed
+the realme of Engla<g ref="char:cmbAbbrStroke">̄</g>d / vnto the vt<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:10925:8"/>
+ſubuerſion of theſame / except thy mer<g ref="char:EOLhyphen"/>ciful
+goodnes do the ſhortly helpe.</p>
+            <p>Ah Lord God / heretofore vnder the rule<note place="margin">Pſal. 50 Rom. 10.</note>
+of that moſte Chriſten kinge Edwarde the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yxte / we were <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aught accordi<g ref="char:cmbAbbrStroke">̄</g>g to thy word
+to fle with oure prayers vnto the alone / in
+all our troubles and neceſſities / as a Lorde
+ple<g ref="char:cmbAbbrStroke">̄</g>tefully ryche for ſo many as call on the.<note place="margin">God alone is to be cal<g ref="char:EOLhyphen"/>led on.</note>
+But nowe the Antichriſtiane Preachers
+teache / that we muſte alſo praye to creatu<g ref="char:EOLhyphen"/>res
+that are dead / that they maye pray for
+vs / or els we praye vnto the invayne / and
+oure prayers ſhal neuer be hearde.</p>
+            <p>Heretofore we were taught / that Chriſt<note place="margin">1. Tim. 2. 1. Ioan. 8. Roma. 2. Chriſtalene is oure me<g ref="char:EOLhyphen"/>diator, ad<g ref="char:EOLhyphen"/>uocate and interceſſour</note>
+God and man is oure alone mediatoure / 
+aduocate and interceſſore. But now the
+prieſtes of Baal teach / that Mary / Iames
+Peter / Ihon / Paule / Andrew / &amp; we know
+not who / are alſo oure mediators / aduoca<g ref="char:EOLunhyphen"/>tes
+and Interceſſoures / and that we muſte
+call vppon them in oure troubles and ad<g ref="char:EOLhyphen"/>uerſities
+/ whan ſoeuer we will haue to do
+with the / namely if we will haue our mat<g ref="char:EOLhyphen"/>ter
+go forwarde.</p>
+            <p>Heretofore we were taughte / that the<note place="margin">1. Ioan. 1. Apoc. 1. Chriſtes bloud is the alo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Pur<g ref="char:EOLhyphen"/>gatory off the faithful.</note>
+precious bloude of oure ſauioure Chriſte
+is the alone and ſufficient Purgatory for
+the ſynnes of all them that repe<g ref="char:cmbAbbrStroke">̄</g>t &amp; beleue.
+But now the papiſtes teache / that there is
+a purging place after this lyfe / where the
+<pb facs="tcp:10925:9"/>
+ſoules of the faithful ſhalbe miſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ably tor<g ref="char:EOLhyphen"/>mented
+with fyrye f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ames / tyll eyther they
+them ſelfes haue made ſatiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>accion for all
+their ſynnes / by ſuffering dew puniſhment
+or els other in this world haue made ame<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>des
+for them / by prayeng / by ſynging of tre<g ref="char:cmbAbbrStroke">̄</g>
+talles / by goyng on <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ylgrimage / by dealeng
+monye / by <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yenge the pepes pardons for
+their redempcion / and ſuche lyke / whan the
+holy ſcripture contrariwiſe teacheth / that<note place="margin">Sap. 3. Apoc. 14</note>
+the faythful ſo ſone as they departe frome
+this lyfe / go ſtreyghtwayes vnto glorye / <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he
+vnfaythful vnto euerlaſtinge payne &amp; dam<g ref="char:EOLhyphen"/>nacion
+/ as we maye ſe in the hiſtorie of the
+ryche glotton / and of the poore man Laza<g ref="char:EOLhyphen"/>rus.<note place="margin">Luc. 16</note>
+            </p>
+            <p>Heretofore we were taught / that Chriſt<note place="margin">Chriſtis one and alone ſa<g ref="char:EOLunhyphen"/>crifice ſuffi<g ref="char:EOLunhyphen"/>cith foreuer and euer. Eſa. 53. Heb. 7. 9. 10. 1. Pet. 2. Apoc. 1.</note>
+thy ſonne and oure alone Sauiour / made
+vpon the aultare of the croſſe / whan he ſuf<g ref="char:EOLunhyphen"/>fered
+and dyed for vs / ſo ſufficient / perfect / 
+abſolute and conſummate oblacion / and ſa<g ref="char:EOLunhyphen"/>crifice
+for the ſynnes of the people / that by
+that one / and alone ſacrifice / grace / fauour / 
+mercy / forgeuenes of ſynnes &amp; euerlaſtinge
+lyfe / is for euer and euer plentefully obtay<g ref="char:EOLunhyphen"/>ned
+of the / for ſo many as repent &amp; beleue.
+But now a dayes / thoſe Baali<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e maſſe<g ref="char:EOLhyphen"/>mongers
+are not aſhamed to reproue that
+ſwete ſmelling ſacrifice of Chriſte / and too
+ſaye / that it is not ſo perfect / but that they
+<pb facs="tcp:10925:9"/>
+alſo muſte offer Chriſt vp againe dayly in
+their maſſes for the ſynnes of the people / &amp;
+that their oblacion is a propiciatory ſacri<g ref="char:EOLhyphen"/>fice
+/ and of no les vertue / ſtrength / efficaci<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+might and power / than the paſhon &amp; death
+of Chriſt / than the ſacrifice / which Chriſte
+hym ſelf offered on the altare of the croſſe.
+Our miſſale ſacrifice / ſaye the maſſing pa<g ref="char:EOLhyphen"/>piſtes
+/ is propiciatory / ſatisfactory / expia<g ref="char:EOLhyphen"/>tory
+/ and neceſſary. <hi>Ad ſalutem,</hi> bothe for
+the quicke and for the dead. The people ſyn
+dayly / therefore muſt we offer ſacrifice for
+the ſynnes of the people dayly in our maſ<g ref="char:EOLhyphen"/>ſes.<note place="margin">O Antichri<g ref="char:EOLunhyphen"/>ſtes.</note>
+What other thinge is this / o heauenly
+father / tha<g ref="char:cmbAbbrStroke">̄</g> to defye the death of thy ſonne / 
+to deſpyſe hys moſte healthful ſacrifice / to
+ſet at nought his wholſome oblacion / too
+treade vnderfoote the bloude of the euer<g ref="char:EOLhyphen"/>laſting<note place="margin">Heb. 10.</note>
+Teſtament / and vtterly too deface
+bothe the kyngdome &amp; prieſthode of Chriſt / 
+and to erecte / and ſet vp a new kyngdome
+and prieſthode of their owne / a new ſacri<g ref="char:EOLhyphen"/>fice
+/ and a ſtraunge oblacion / inue<g ref="char:cmbAbbrStroke">̄</g>ted of the
+deuel / broughte in by Antichriſte / confyr<g ref="char:EOLhyphen"/>med<note place="margin">Apoc. 13. Apoc. 21.</note>
+by ſuche as haue receaued the beaſtes
+marke / and frequented / vſed and ſoughte
+of all / that haue their porcion in that lake
+that burneth with fyre and brymſtone / ex<g ref="char:EOLhyphen"/>cepte
+they repent and ame<g ref="char:cmbAbbrStroke">̄</g>d? Is not Chriſte
+an euerlaſting prieſt?<note place="margin">Pſal. 110. Heb. 7. Heb. 10</note> Dothe not his prieſt<g ref="char:EOLhyphen"/>hoode
+<pb facs="tcp:10925:10"/>
+continew from generacion to gene<g ref="char:EOLhyphen"/>racion?
+Hath he not with one oblacio<g ref="char:cmbAbbrStroke">̄</g> made
+per<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecte for euer / them that are ſanc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>?
+Are we not made holy by the offering vp of
+the body of Ieſu done once for all? <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not
+Chriſt / after he had offered one ſacrifice for
+ſynnes / ſyt him doun for euer / on the right
+hande of God / and from hen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>forth tarieth
+tyll hys foos be made hys footeſtoole? Is
+not Ieſus Chriſt yeſterday and to day / and
+theſame continueth foreuer?<note place="margin">Heb. 13.</note> What haue
+we than to do with the ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rificing maſſemo<g ref="char:cmbAbbrStroke">̄</g>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers or with their miſſal ſacrifice? O hea<g ref="char:EOLhyphen"/>uenly
+father / ſuffer vs not to be carryed a<g ref="char:EOLhyphen"/>bout
+with diuers and ſtraunge learninge.</p>
+            <p>Moreouer / heretofore we were caughte<note place="margin">Aultar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ollerable among Chri<g ref="char:EOLunhyphen"/>ſtians.</note>
+to beate doune the Idolatrous &amp; Heathe<g ref="char:EOLhyphen"/>niſh
+altars / which Antichriſt of Rome ente<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ding
+to ſet vp a new prieſthoode &amp; a ſtrau<g ref="char:cmbAbbrStroke">̄</g>ge
+ſacrifice forſynne / co<g ref="char:cmbAbbrStroke">̄</g>maunded to be buylte
+vp / as though calfes / goates / ſhepe &amp; ſuche
+other brute beaſtes ſhould be offered again
+after the prieſthoode of Aaron / for the ſyn<g ref="char:EOLhyphen"/>nes
+of the people / and to ſet in their ſteade<note place="margin">Chriſte, his Apoſtles &amp; the prima<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iue church vſed tables at the mini<g ref="char:EOLhyphen"/>ſtracion off the holy co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>munion.</note>
+in ſome conuenient place a ſemely table / &amp;
+after the examples of Chriſt / to receaue to<g ref="char:EOLunhyphen"/>gether
+at it the holy miſteries of Chriſte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+bodye &amp; bloud / in reme<g ref="char:cmbAbbrStroke">̄</g>brau<g ref="char:cmbAbbrStroke">̄</g>ce that Chriſtes
+body was broke<g ref="char:cmbAbbrStroke">̄</g> / &amp; his bloud ſhead for our
+ſynnes. But now the ſacrificinge ſorcerer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:10925:10"/>
+ſhame not bothe in their priuate talke / &amp; in
+their open ſermons ſpitely to call the Lor<g ref="char:EOLhyphen"/>des
+table an Oyſterborde / &amp; therefore haue
+they taken out of the te<g ref="char:cmbAbbrStroke">̄</g>ples thoſe ſemely ta<g ref="char:EOLunhyphen"/>bles
+/ which we folowing the exa<g ref="char:cmbAbbrStroke">̄</g>ples of thy
+derely beloued ſonne / and of the primatiue
+church vſed at the miniſtracion of the holy
+co<g ref="char:cmbAbbrStroke">̄</g>munion / &amp; they haue broughte in agayne
+their bloudy &amp; bocherly altars / &amp; vpo<g ref="char:cmbAbbrStroke">̄</g> thoſe<note place="margin">O cruel bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>chers.</note>
+they ſacrifice &amp; offer daily / ſay thei / that is / 
+thei kyl / ſlea &amp; murderthy dere ſonne Chriſt
+for the ſi<g ref="char:cmbAbbrStroke">̄</g>nes of the people. For as thy holy
+apoſtle ſayeth:<note place="margin">Heb. 9</note> Where no ſhedding of bloud
+is / there is no remiſſio<g ref="char:cmbAbbrStroke">̄</g> &amp; forgeuenes of ſyn<g ref="char:EOLhyphen"/>nes.
+If thorow their maſſing ſinnes be for<g ref="char:EOLhyphen"/>geuen
+/ tha<g ref="char:cmbAbbrStroke">̄</g> muſt the ſacrifice that there is
+offered be ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayn / &amp; the bloud thereof ſhead.
+If the maſſemo<g ref="char:cmbAbbrStroke">̄</g>gers therfore offer Chriſte
+vp in their maſſes / a ſacrifice vnto God for<note place="margin">O murth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rers.</note>
+the ſinnes of the people / ſo foloweth it that
+they murder / kyl / &amp; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lea Chriſte / yea / &amp; ſhed
+his bloud at their maſſes / &amp; ſo by this mea<g ref="char:cmbAbbrStroke">̄</g>s
+we muſt nedes co<g ref="char:cmbAbbrStroke">̄</g>feſſe / that bloudy altars
+are more mete for ſuch bloudy bochers / tha<g ref="char:cmbAbbrStroke">̄</g>
+honeſt &amp; pure tables.<note place="margin">Rom. 6</note> But we are taughte
+in the holy ſchriptures / that Chriſte once
+rayſed from deathe / dyeth nomore. Death
+hath nomore power ouer hym. For as tou<g ref="char:EOLhyphen"/>chi<g ref="char:cmbAbbrStroke">̄</g>g
+that he dyed / he died co<g ref="char:cmbAbbrStroke">̄</g>cerni<g ref="char:cmbAbbrStroke">̄</g>g ſin once.
+<pb facs="tcp:10925:11"/>
+And as touchinge that he liueth / he lyueth
+vnto the god his father. If Chriſt therfore
+dyeth nomore / tha<g ref="char:cmbAbbrStroke">̄</g> do the papiſtes ſacrifice
+hym nomore.<note place="margin">Idolatrous</note> If they ſacrifice him nomore
+than are they <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut iangling iuglars / &amp; their
+maſſes ſerue for none other purpoſe / but
+to kepe the people i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blyndnes / to deface the
+paſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on and death of Chriſte / and to mayn<g ref="char:EOLhyphen"/>tayne
+their idle and drafſacked bellies / in al pompe
+and honour / with the labour of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther
+mens handes / and with the ſweate off
+poore mens browes / ſo farre is it of that / 
+they with their abhominable maſſing and
+ſtincking ſacrificing / put awaye the ſynnes
+eyther of the quicke or of the dead / as they
+make the vnlearned and ſymple people to
+beleue.<note place="margin">Maſſes vvhy thei ſerue.</note> Ah Lord God and heauenly father / 
+if thou were not a God of long ſufferinge
+and of great pacience / howe couldeſte thou
+abyd theſe intollerable iniuries / &amp; to much
+deteſtable blaſphemies / whiche the wicked
+papiſtes committe againſte the &amp; thy ſonne
+Chriſt / in their idolatrous maſſes / at their
+Heatheni<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h aultares?</p>
+            <p>Heretofore we were taughte to receaue
+the miſreries of the Lordes bodye &amp; bloude
+together / accordinge too the ordinaunce of
+Chriſte.<note place="margin">The faithe<g ref="char:EOLhyphen"/>full oughte too receaue the Sacra<g ref="char:EOLhyphen"/>mente toge<g ref="char:EOLhyphen"/>ther, &amp; not the prieſte alo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</note> But now no communion is had / 
+For the popiſh and vncharitable maſſemo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ger
+/ vtterly abuſinge the Lordes ſoupper / 
+<pb facs="tcp:10925:11"/>
+eateth and drincketh vp<g ref="char:cmbAbbrStroke">̄</g> all alone at his ido<g ref="char:EOLhyphen"/>latrous
+aultare.</p>
+            <p>Heretofore we were taughte to receaue
+the Sacrament of the bodye and bloude of
+Chriſt vnder both kyndes / according vnto
+Chriſtes inſtitucion / which ſayeth: Drinke
+of this al ye.<note place="margin">The faithe<g ref="char:EOLhyphen"/>ful onght to receaue the Sacramente vnder both <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yndes.</note> And as the holy apoſtle ſaieth:
+So ofte as ye ſhall eate of this breade / and
+drinke of this cuppe / ye ſhall remember the
+Lordes death tyll he come.<note place="margin">Math. 26 1. Cor. 11. Ioan. 15.</note> But nowe the
+Romiſh ſorcerers / co<g ref="char:cmbAbbrStroke">̄</g>trary to the ordina<g ref="char:cmbAbbrStroke">̄</g>ce
+and commaundeme<g ref="char:cmbAbbrStroke">̄</g>t of thy ſonne / the ma<g ref="char:EOLhyphen"/>ſter
+of trueth / yea / the<g ref="char:cmbAbbrStroke">̄</g>ſelf trueth / and con<g ref="char:EOLhyphen"/>trary
+to the practiſe &amp; vſage of the prima<g ref="char:EOLhyphen"/>tiue
+churche / like theues / robbers &amp; mur<g ref="char:EOLhyphen"/>therers
+/ cruelly take awaye fro<g ref="char:cmbAbbrStroke">̄</g> thy people
+the miſticall cuppe of Chriſtes bloude / for
+the mayntenaunce of their deueliſh decre / 
+and miniſter after their ſorte the Sacra<g ref="char:EOLhyphen"/>ment
+of thankesgeuinge to thy Chriſtians
+onely vnder one kynde / yea / and that with<g ref="char:EOLhyphen"/>out
+the preaching of the Lordes death / repe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>taunce
+/ fayth / amendement of lyfe / &amp;c. and
+ſo make they it an idle and dumme ceremo<g ref="char:EOLunhyphen"/>nie
+altogether vuprofitable and withoute
+frute / whiche beynge rightely miniſtred / 
+is to the faythfull a Sacrament of greate
+ioye and conforte.</p>
+            <p>Heretofore we were taughte / that the
+Lordes ſoupper / or breaking of the bread / as<note place="margin">The Lordes ſupper is a memorial of Chriſtes deathe.</note>
+               <pb facs="tcp:10925:12"/>
+the Apoſtles terme it / is a memorial of the
+body breaking &amp; bloud ſheading of our ſa<g ref="char:EOLhyphen"/>uiou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Chriſt / &amp; that as we outwardly fede
+of the breade &amp; wyne / ſo we inwardly tho<g ref="char:EOLhyphen"/>row
+fayth fede of the bleſſed bodye &amp; preci<g ref="char:EOLhyphen"/>ous
+bloude of Ieſus Chriſt our Lord / vnto
+the greate and vnſpeakable conforte bothe
+of ſoule and bodye. But nowe the diſciples
+of Antichriſt knowing that the whole glory
+of their kyngdome lygheth in the ſals opi<g ref="char:EOLhyphen"/>nion
+&amp; abuſe of this Sacrame<g ref="char:cmbAbbrStroke">̄</g>t / in all their
+ſermons &amp; priuate talke / labour / ſwyncke / 
+ſweate and ſeke all meanes poſſible with
+tothe and nayle / with hande &amp; foote / wyth
+tunge and pe<g ref="char:cmbAbbrStroke">̄</g>ne / with fyre and faggot / with
+ſwerde and halter to perſwade the people / 
+that after they haue whyſpered a fewe La<g ref="char:EOLhyphen"/>tin
+wordes / with one breath ouer the bread
+and wyne / and haue bleſſed / croſſed / coniu<g ref="char:EOLhyphen"/>red
+and handled them after their ghoſtely
+manner / there remayneth nomore breadde
+and wyne / althoughe we botheſe / fele / and
+taſte ve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y bread and very wyne / yea / &amp; al<g ref="char:EOLhyphen"/>though
+the holy ſcripture / after the wordes
+of conſecracio<g ref="char:cmbAbbrStroke">̄</g> / called the Sacrame<g ref="char:cmbAbbrStroke">̄</g>t / bread
+and wyne / but ſaye they / the bread thorowe
+the vertue of the wordes / whiche we holye
+annoynted reherſe / is turned into the natu<g ref="char:EOLunhyphen"/>rall
+ſubſtaunce of Chriſtes bodye / and the
+wyne is chaunged into the naturall bloude<note place="margin">O <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uglers.</note>
+               <pb facs="tcp:10925:12"/>
+of Chriſte / onely the accident<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of breadde
+and wyne remayninge / whan notwithſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ding
+the holy ſcriptures teach vs in diuers
+places / that thy Chriſt is aſcended into hea<g ref="char:EOLunhyphen"/>uen
+/ and ſytteth on thy right hande / &amp; there
+ſhall remayne / concer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing hys humanite / 
+tyll he come too iudge the quicke and the
+dead.<note place="margin">Marc. 16. Luc. 24 Act. 1. Rom. 8. Ephe. 4. Coloſ. 3. Philip. 3. Heb. 10.</note> And after theſe Capernaites haue <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bored
+to perſwade the people / that the Sa<g ref="char:EOLhyphen"/>cramentall
+breade is the very true / natu<g ref="char:EOLhyphen"/>rall
+/ corporall / ſubſtanciall / reall / and ſenſi<g ref="char:EOLunhyphen"/>ble
+bodye of Chriſte / euen the ſelfſame that
+was borne of Mary the virgine / lyued vpo<g ref="char:cmbAbbrStroke">̄</g>
+the earthe / was hanged vppon the croſſe / &amp;
+dyed for vs / than exhorte they the people
+with all reuerence and humilite to know<g ref="char:EOLhyphen"/>ledge
+and beleue it too be their Lorde God / 
+theyr maker and redemer / their Sauiour
+and defender / and ſo too falle doune before
+it to honoure and worſhippe it / to prayſe &amp;
+call vpon it / to fle vnto it for ſoccoure / and
+to looke for all good thinges of it / as of the
+very true and euerlaſtinge God.<note place="margin">O abhom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nacion.</note> By theſe
+means (o heauenly father) they bring away
+thy people thorow they<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vayne / fleſhly and
+ſophiſticall reaſons / from the honoringe of
+the thalone true / Imortal / muiſible &amp; euer<g ref="char:EOLhyphen"/>laſting
+God / vnto the worſhippig of a pece
+of b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cad / yea / of a very idol / where as thou
+alone oughteſt to haue al the honor &amp; glory.<note place="margin">1. Timo. 1 Pſal. 98.</note>
+               <pb facs="tcp:10925:13"/>
+O Lorde aryſe / and lette thyne enemies be
+ſcattered / let the<g ref="char:cmbAbbrStroke">̄</g> alſo that hate the / flee be<g ref="char:EOLhyphen"/>fore
+the / like a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſmok vaniſheth / ſo driu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+thou them awaye / &amp; lyke as waxe melteth
+at the fyre / ſo let the vugodly papiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es periſh
+and be confou<g ref="char:cmbAbbrStroke">̄</g>ded that thy people be no le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ger
+ſeduced / &amp; ledde fro<g ref="char:cmbAbbrStroke">̄</g> the way of trueth / 
+by their ſubtile and carnall imaginacions / 
+but that thei beynge truely taughte / may
+know the too be the alone true God / and
+whome thou haſt ſent Ieſus Chriſt.<note place="margin">Ioan. 17.</note>
+            </p>
+            <p>Heretofore we had in the temples whan
+we came together to praye and to geue tha<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>kes
+vnto the / all our prayers &amp; thankee ge<g ref="char:EOLhyphen"/>uing
+in the tu<g ref="char:cmbAbbrStroke">̄</g>ge that we v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>derſtode / wher<g ref="char:EOLhyphen"/>by
+we receaued great co<g ref="char:cmbAbbrStroke">̄</g>forte / &amp; were much
+edified.<note place="margin">Common <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raier ought to be in that <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge that all the people vn<g ref="char:EOLhyphen"/>derſtande.</note> But now the papiſtes (which with
+thy people to be more rude tha<g ref="char:cmbAbbrStroke">̄</g> aſſes / more
+biynde than be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les / more ignorant than da<g ref="char:EOLhyphen"/>ſtardes
+/ that they mighte make them there
+ryding fooles and lauggyng ſtockes) co<g ref="char:cmbAbbrStroke">̄</g>trary
+too the vſage and practiſe of the primatiue
+Churche / yea / contrary to thy commaun<g ref="char:EOLhyphen"/>deme<g ref="char:cmbAbbrStroke">̄</g>t
+geuen by thyne Apoſtle / which wil<g ref="char:EOLhyphen"/>leth
+all thinges in the congregacion too be
+vttered in ſuche a ſpeache as all might vn<g ref="char:EOLhyphen"/>derſtande
+and be edified / or els ſilence to be
+kept / haue brought the matter to this po<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t / 
+that all Engliſh ſeruice dryuen oute of the
+Churches / thei haue ſtabliſhed their popiſh<note place="margin">1. Cor. 4.</note>
+               <pb facs="tcp:10925:13"/>
+latin ſeruice / which the moſte parte of thy
+people vnderſtand nothinge at all.<note place="margin">O <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d yet
+ſo cruell &amp; malicious are the papiſtes / that
+they enforce and with violence compel thy
+people to come vnto their Romiſh / ſuper<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<g ref="char:EOLunhyphen"/>cious
+/ blaſphemous / and idolatrous Latin
+ſeruice / to heare it / to reuerence &amp; honoure
+it with their preſence / and too call it Gods
+ſeruice / whan they vnderſta<g ref="char:cmbAbbrStroke">̄</g>d no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / whither
+Baals prieſtes that there bleate &amp; mu<g ref="char:cmbAbbrStroke">̄</g>ble / 
+do bleſſe or curſe / prayſe or blaſpheme.
+Moſte certeyn is this / that thy people are
+altogether without edifienge / ſpende theyr
+time in vayn / &amp; return hom agai<g ref="char:cmbAbbrStroke">̄</g> / as vnlear<g ref="char:EOLunhyphen"/>ned
+&amp; ignoraunte / as they came thyther.</p>
+            <p>Heretofore we had redde in oure tem<g ref="char:EOLhyphen"/>ples
+euery ſonday / and at diuers other ty<g ref="char:EOLhyphen"/>mes
+a godly and learned homely or ſermo<g ref="char:cmbAbbrStroke">̄</g> / 
+and certayn chapters oute of the holy Bi<g ref="char:EOLhyphen"/>ble
+in the Engliſhe tunge / that all the peo<g ref="char:EOLhyphen"/>ple
+mighte vnderſtande what was done or
+ſayde / whiche gaue them occaſio<g ref="char:cmbAbbrStroke">̄</g> to forſake
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice / and to embrace vertue / to lyue in thy
+fayre / and diligently to call vpo<g ref="char:cmbAbbrStroke">̄</g> thy bleſſed
+name.<note place="margin">Homilies in Engliſhe &amp; chapter<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Bible</note> But now bothe thoſe godly homiles
+and confortable chapters haue thyne ene<g ref="char:EOLhyphen"/>mies
+the papiſtes ba<g ref="char:cmbAbbrStroke">̄</g>niſhed out of the te<g ref="char:cmbAbbrStroke">̄</g>ples
+vnto the great diſcomfort of al ſuch as vn<g ref="char:EOLhyphen"/>faynedly
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oue the / and thy bleſſed worde / &amp;
+in the ſtead of the<g ref="char:cmbAbbrStroke">̄</g> / they haue ſet vp blaſphe
+<pb facs="tcp:10925:14"/>
+mous collacio<g ref="char:cmbAbbrStroke">̄</g>s / ſynging / rynging / pyping / 
+ſenſynge / holy water caſtinge / holy breade
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealing / palmes and candles bearing / croſſe
+kneling / bread worſhipping / aſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odding
+fyre and rapers halowing / with an infinite
+number of ſuch lyke Heathen ceremonies / 
+that the people beyng occupied with ſuche
+chyldiſhe trifles / louſye tradicious and beg<g ref="char:EOLhyphen"/>garly<note place="margin">Popiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bag<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+ceremonies / myghte forget the whol<g ref="char:EOLhyphen"/>ſome
+foode of theyr ſoules / whiche is thy
+holy and bleſſed worde.<note place="margin">Math. 4.</note>
+            </p>
+            <p>Heretofore / vpon the Sondayes &amp; cer<g ref="char:EOLhyphen"/>tayne
+other dayes in the weke / we had the
+Letanye reherſed amonge vs in oure Eng<g ref="char:EOLhyphen"/>ly<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hetu<g ref="char:cmbAbbrStroke">̄</g>g / 
+euery one of vs kneling deuoutly
+and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> callynge on the for mercy and
+grace.<note place="margin">The Leta<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n En<g ref="char:EOLhyphen"/>gliſſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> O heaue<g ref="char:cmbAbbrStroke">̄</g>ly father / this was ſetforth
+in the tyme of thy ſeruaunte kynge Henry
+the eygh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e / and continued among vs / vntyl
+the death of that moſt godly and verteous
+prynce <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynge Edwarde the ſyxte / and a lit<g ref="char:EOLhyphen"/>tel
+after vnto the ſyngulare <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and great
+conforte of all godly and Chriſten harted
+people. But now the ſubtile and fleſhely
+pap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtes haue ſoo bewyiched the Quenes
+eyes / that whatſoeuer her father and her
+brother / moſte godly broughte too paſſe for
+the a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auncement of thy glory / &amp; for the edi<g ref="char:EOLunhyphen"/>fyeng
+of thy people / that is vtterly ſubuer<g ref="char:EOLhyphen"/>ted
+&amp; taken for hereſye / yea / and ſpitefullye
+<pb facs="tcp:10925:14"/>
+preached agaynſte in open ſermons / ſo that
+this godly &amp; mooſte wholſome Letanye is
+not onely taken awaye from vs / but in the
+ſtead thereof we are compelled to go on pre<g ref="char:EOLhyphen"/>ceſſion
+/ following an Idoll / with ſynginge
+<hi>Ora pro nobis, Salue feſta dies,</hi> or ſome o<g ref="char:EOLhyphen"/>ther
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laſp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emous ſonge vnto the greate ſo<g ref="char:EOLhyphen"/>rowe
+and inwarde harte / breakinge of all
+thy faythfull.</p>
+            <p>Heretofore / thy Sacramentes were ſo
+miniſtred vnto vs / that we receaued greate
+conforte by them.<note place="margin">Sacrament<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truly<g ref="char:EOLhyphen"/>ſtred.</note> But nowe they are ſo
+miniſtred of thys ſwyny<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſpirituall for<g ref="char:EOLhyphen"/>cerers
+/ that they are become dumme and
+idle ceremonies altogether withoute edy<g ref="char:EOLhyphen"/>fyeng
+or profyt. For beſydes that they are
+miniſtred in an vnknowentunge / howe be
+they defyled with mens tradicio<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> / &amp; beg<g ref="char:EOLhyphen"/>garly
+ceremonies? vnto the Sacrament of
+Baptiſme / they putte Heateniſh rites and
+wicked coniuracions.<note place="margin">The Sacra<g ref="char:EOLhyphen"/>ment of Bap<g ref="char:EOLunhyphen"/>tiſme.</note> For Baals prieſte / 
+before the chylde canne be baptiſed / bewyt<g ref="char:EOLhyphen"/>cheth
+the water / ſhutteth the church doore / 
+coniureth the deuel out of the poore you<g ref="char:cmbAbbrStroke">̄</g>ge
+Infaunt / beſpueth the chylde with his vile
+ſpitle and ſtincking ſlaueringe / putteth ſalt
+in the<g ref="char:cmbAbbrStroke">̄</g> chyldes mouth / ſmereth it with grea<g ref="char:EOLunhyphen"/>ſye
+&amp; <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſauer oyle / &amp;c. And withoute theſe
+apy<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h toyes / they make the people beleue / 
+that the baptiſme is nothi<g ref="char:cmbAbbrStroke">̄</g>g worth. Ah good
+<pb facs="tcp:10925:15"/>
+is this any other thing than a play<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e lau<g ref="char:EOLhyphen"/>ghing
+to ſcorne of thy dere ſo<g ref="char:cmbAbbrStroke">̄</g>nes inſtitutio<g ref="char:cmbAbbrStroke">̄</g>?
+Do theſe papiſtes / by adding their beggarly
+ceremonies anye other thinge / than ſet thy
+ſonne Chriſte to ſchole / and auaunce theyr
+owne fle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hly imaginacio<g ref="char:cmbAbbrStroke">̄</g>s aboue the wyſe<g ref="char:EOLhyphen"/>dome
+of the Lorde Chriſt?</p>
+            <p>The Sacrament alſo of thy dere ſonnes
+body &amp; bloude / howe haue the aduerſaries
+prophanated and defyled?<note place="margin">The Sacra<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t of Chri<g ref="char:EOLhyphen"/>stes bodij &amp; b<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>de.</note> thy ſonne bothe
+before and after the miniſtracion of the Sa<g ref="char:EOLunhyphen"/>crament
+preached vnto his diſciples. The
+papiſtes preache nothing at all. Thy ſonne
+ſpake the wordes of the inſtitucion openly
+in that tunge / that all the diſciples vnder<g ref="char:EOLhyphen"/>ſtoode.
+The papiſtes vtter all thinges in a
+ſtraunge language / yea / and that ſo ſoftely
+that they ſcace heare the<g ref="char:cmbAbbrStroke">̄</g> ſelfes.<note place="margin">A compari<g ref="char:EOLhyphen"/>ſo<g ref="char:cmbAbbrStroke">̄</g> betvven Chriſt &amp; the papiſtes, in the miniſtra<g ref="char:EOLunhyphen"/>cion of the Sacrament.</note> Thy ſonne
+miniſtred the Sacramentes without put<g ref="char:EOLhyphen"/>ting
+on of any diſguyſed apparel. The pa<g ref="char:EOLhyphen"/>piſtes
+decke them ſelfes lyke hycke ſcorner
+in game players garmentes. Thy ſonne mi<g ref="char:EOLunhyphen"/>niſtred
+the Sacrament / ſitting at the table
+with hys diſciples. The papiſtes ſtande at
+the aultare / and geue the bread and wyne
+to the people kneling. Thy ſonne gaue the
+Sacrame<g ref="char:cmbAbbrStroke">̄</g>tal bread to the diſciples in their
+handes / ſayeng: Take / eate. The papiſtes
+thruſt the bread into the people mouthes / as
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough they had not ſo muche witte as to
+<pb facs="tcp:10925:15"/>
+fede them ſelfes. Thy ſonne miniſtred the
+Sacrament of hys body and bloude vnder
+bothe kyndes to hys diſciples. The papi<g ref="char:EOLhyphen"/>ſtes
+do miniſter it to the laye people onely
+vnder one kynde / and like theues ſteale the
+other away<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from them / and reſerue it to
+themſelfes alone. Thy ſonne brake the Sa<g ref="char:EOLunhyphen"/>cramentall
+bread. The papiſtes vſe no brea<g ref="char:EOLhyphen"/>kinge
+of the bread / as Chriſte and his Apo<g ref="char:EOLhyphen"/>ſtles
+and all the primatiue churche did for
+to declare the miſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erie of Chriſtes bodye / 
+breakinge on the aultare of the croſſe for
+oure redempcion / but they putte into the
+peoples mouthes a littell lighte whyghte
+waffer cake / ſpeaking to them a fewe wor<g ref="char:EOLhyphen"/>des
+in Latin / whiche they vnderſtande not.
+Thy ſonne did appointe the Sacrame<g ref="char:cmbAbbrStroke">̄</g>tall
+bread to be broken and eaten. The papiſtes
+kepe it whole / and hange it vp in the pyxe / 
+yea / and carrye it about for a pageaunte in
+their idolatrous / popiſh / pompous proceſ<g ref="char:EOLhyphen"/>ſions.
+Thy ſonne inſtituted the Sacrame<g ref="char:cmbAbbrStroke">̄</g>t
+to be a memortall of hys bodye breakinge
+and bloude ſhedding. The papiſtes teache / 
+that the bread and wyne is turned into the
+naturall bodye and bloude of Chriſte God
+and manne / euen the ſelfeſame bodye that
+was borne of Marye the vyrgine / fleſhe / 
+bloude / and bone / ſo that there remayueth
+neither bread nor wyne / although the holy
+<pb facs="tcp:10925:16"/>
+ſcripture affyrmeth playnely / that this is
+bothe bread<note place="margin">Bread and vvyne re<g ref="char:EOLhyphen"/>main in the Sacraments after the vvordes off conſecracio<g ref="char:cmbAbbrStroke">̄</g>
+               </note> &amp; wyne remaining / the doctors
+of the Chriſten primatiue churche teſtefyed
+the ſame in their writtinges / the Greke
+church / eue<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> the Apoſtles tyme vnto this
+daye haue ſo receaued &amp; beleued / vtterly de<g ref="char:EOLhyphen"/>uieng
+the popiſh art<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kle of tra<g ref="char:cmbAbbrStroke">̄</g>ſſubſta<g ref="char:cmbAbbrStroke">̄</g>tiaci<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> /
+reaſon alſo &amp; all the ſenſes of man teſtefye
+that there remayne both bread and wyne / 
+after the woordes of conſecracion / as they
+vſe to terme them / yea / and experience tea<g ref="char:EOLhyphen"/>cheth
+/ that if the Sacramentall breadde
+be longe reſerued / it will corrupte / putrifie
+moulde / ſtyncke / and bredefull of wormes / 
+and the wyne lykewiſe / will chaunge the
+colloure and waxe ſoure.<note place="margin">Tra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſub<g ref="char:EOLhyphen"/>ſtantiacion.</note> O heauenly fa<g ref="char:EOLhyphen"/>ther
+/ ſuche corrupcion can not chaunce too
+thy d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſonnes body &amp; bloud / which is vn<g ref="char:EOLhyphen"/>corruptible
+&amp; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mortal / ſitteth on thy right<g ref="char:EOLhyphen"/>hand
+/ &amp; raygneth with the in glory for euer
+&amp; euer. This Antichriſtian doctrine / o bleſ<g ref="char:EOLunhyphen"/>ſed
+Lorde / was not knowen in thy holye
+Churche / v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tyll pope Nicholas / pope In<g ref="char:EOLhyphen"/>nocent
+/ pope Vrbane / Fryer Thomas / and
+ſuche other miniſters of Sathan / partely
+with their tyrannye / and partelye with
+their ſophiſtrye / as their apyſſhe adheren<g ref="char:EOLhyphen"/>tes
+doo nowe agayne in thys oure dayes / 
+broughte it in / and compelled the Chriſti<g ref="char:EOLhyphen"/>ans
+with fyre and ſwearde / to beleue thys
+<pb facs="tcp:10925:16"/>
+theyr monſtruous opinion / for the mayn<g ref="char:EOLhyphen"/>tenau<g ref="char:cmbAbbrStroke">̄</g>ce
+of their bellye kyngdom / although
+it be neuer ſo muche contrarie too the arti<g ref="char:EOLhyphen"/>kles
+of oure fayth / and too the doctrine of
+the holy ſcripture / and of all the aunciente
+writters. Thy ſonne at hys ſupper / willed
+the Sacramentall bread and wyne too be
+eaten and droncken for a remembrau<g ref="char:cmbAbbrStroke">̄</g>ce off
+that one / and alone ſacrifice / whiche he of<g ref="char:EOLhyphen"/>fered
+on the altare of the croſſe / for the ſyn<g ref="char:EOLhyphen"/>nes
+of the people. The papiſtes in their ido
+latrous and abhominable maſſes make of
+the Sacrament a propiciatorie / expiatory
+and ſatiſfactory ſacrifice for the ſynnes off
+the people / neceſſary <hi>Ad ſalute<g ref="char:cmbAbbrStroke">̄</g>,</hi> affirming
+that their acte in the maſſe is of equal price / 
+dignitie / vertue / myghte / efficacie and po<g ref="char:EOLhyphen"/>wer
+before the eyes of thy diuine maieſtie
+with the moſte healthfull and ſwete ſmel<g ref="char:EOLhyphen"/>lyng
+ſacrifice / that thy ſonne offered on the
+altare of the croſſe / wha<g ref="char:cmbAbbrStroke">̄</g> he gaue hi<g ref="char:cmbAbbrStroke">̄</g> ſelf vnto
+the death for the ſynnes of the people.<note place="margin">O intolle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ble blaſphe<g ref="char:EOLunhyphen"/>mie.</note> Thy
+ſonne ordayned the Sacramente too be a
+ſigne and token of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / wha<g ref="char:cmbAbbrStroke">̄</g> the godly come
+together to eate all of one bread<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; to drink<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+all of one cuppe. The papiſtes make it <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Sacramente of diſſencion / diſcorde and de<g ref="char:EOLhyphen"/>bate.
+For if anye will not agree too
+theyr fleſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>helye / wycked and dettely<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pynyon / confeſſynge theyr erroure off
+<pb facs="tcp:10925:17"/>
+tranſſubſtantiatio<g ref="char:cmbAbbrStroke">̄</g> / and affyrming<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the
+bread and wyne is the very naturall bodye
+and bloude of Chriſte God and man / and
+therefore oughte too be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neled vnto / wor<g ref="char:EOLhyphen"/>ſhipped
+/ honored / and called vppon as the
+onely true / lyuynge and immortall God / 
+they falle oute with them / they calle them
+heretykes / they perſecute them / they ap<g ref="char:EOLhyphen"/>prehende
+them / they empreſonne &amp; burne
+them without mercy? And as the wicked
+papiſtes prophanate and vnhallowe theſe
+twoo aforeſayde holy Sacramentes / ſo do
+they lyke fylthye ſwyne defyle all other mi<g ref="char:EOLhyphen"/>ſteries
+/ that thy ſonne Chriſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath orday<g ref="char:EOLhyphen"/>ned
+with reuere<g ref="char:cmbAbbrStroke">̄</g>ce to be vſed in thy church.</p>
+            <p>An Lorde God and oure heaue<g ref="char:cmbAbbrStroke">̄</g>ly father / 
+therfore we were taught too wor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hip the
+in ſpirite and truethe / and too praye vnto
+the euery where / lyftinge vp pure handes
+without wrathe or doubtinge.<note place="margin">Ioan. 4. 1. Tim. 2.</note> But nowe
+the papiſtes teache vs to praye vnto the and
+vnto all the co<g ref="char:cmbAbbrStroke">̄</g>pany of heauen with boynge
+and bleatinge in the quyre / with playeng on
+the organs / with ſayeng ladies pſalters on
+beades / with mumblynge ouer certayne
+prayers / in the tunge that we vnderſtande
+not.<note place="margin">Pra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r.</note>
+            </p>
+            <p>Heretofore we were taughte / that thou
+alone forgeueſt vs all our ſyn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es / whan ſo<g ref="char:EOLhyphen"/>uer
+we earneſtly repent / and vnfay<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edly
+turne vnto the,<note place="margin">God alone forgeueth ſinne.</note> But nowe the papiſtes
+<pb facs="tcp:10925:17"/>
+teache / that they alſo haue power too for<g ref="char:EOLhyphen"/>geue
+ſynnes / and that oure ſynnes can not
+be forgeuen / excepte we confeſſe them vnto
+the prieſte with all circumſtaunces.<note place="margin">Eſa. 43. Marc. 2. Luc. 5.</note>
+            </p>
+            <p>Heretofore we were taught to looke for
+all ſaluacion of the thorowe faythe in the
+bloude of Chriſte.<note place="margin">Faith onely iuſtefied.</note> But nowe the papiſtes
+teache vs to looke for ſaluacio<g ref="char:cmbAbbrStroke">̄</g> in our owne
+good workes / in the interceſſion of ſainc<g ref="char:EOLhyphen"/>tes
+/ in prayers and merites of ſynneful hy<g ref="char:EOLhyphen"/>pocrites
+and beaſtly belligoddes / in ceremo<g ref="char:EOLunhyphen"/>nies
+/ in wil workes / in tradicious of men / in
+holy bread / holy water / holy candels / holy
+palmes / holy aſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes / latine ſeruice / idola<g ref="char:EOLhyphen"/>trous
+maſſes / ſuperſticious Diriges / trife<g ref="char:EOLhyphen"/>linge
+trentalles / popiſhe faſtinges / belles / 
+beades / &amp;c.<note place="margin">Abomina<g ref="char:EOLhyphen"/>cions.</note>
+            </p>
+            <p>Heretofore we were taught to caſte out
+of our temples the Idols and Mawmettes
+wherwith many com<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itted ſpiritual whor<g ref="char:EOLhyphen"/>dome
+and ra<g ref="char:cmbAbbrStroke">̄</g>ne an whoring / and to garniſh
+the churche with the holy ſcriptures / that
+the people might learne to know &amp; to feare
+the.<note place="margin">Images not tollerable in the te<g ref="char:cmbAbbrStroke">̄</g>ples of the Chri<g ref="char:EOLhyphen"/>ſtians.</note> But now the vngodlye papiſtes haue
+brought the matter to this pointe / that the
+ſentences of thy bleſſed lawe are blotted / &amp;
+vtterly wyped out of the temples / &amp; Idols
+are there placed manifeſtlye and directly / 
+agaynſte thy bleſſed commaundemente / 
+which thy enemies call laye me<g ref="char:cmbAbbrStroke">̄</g>s Cale<g ref="char:cmbAbbrStroke">̄</g>ders<note place="margin">Exod. 20 Leuit. 19. Deut. 5. 7. 12.</note>
+               <pb facs="tcp:10925:18"/>
+or bokes / as though o Lorde God / the peo<g ref="char:EOLhyphen"/>ple
+might ſoner be brought vnto the know<g ref="char:EOLhyphen"/>ledge
+of the / by looking on deformed ſtock<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+&amp; ſtones / than by reading thy holy &amp; bleſſed
+worde.<note place="margin">Ioan. 5</note> Thy ſonne &amp; our ſauiour Chriſt co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>maundeth
+vs to ſearche the ſcriptures / and
+not to beholde Idols and Mawmettes.<note place="margin">Ioan. 8.</note> He
+that is of god / ſaythe he / hearethe the word
+of god. He ſayethe not / he that is of god ru<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>eth
+vnto Images / &amp; ſeeth what goodnes he
+ca<g ref="char:cmbAbbrStroke">̄</g>ne pycke out of the<g ref="char:cmbAbbrStroke">̄</g>. Agayn he ſayeth: My
+ſhepe heare my voyce.<note place="margin">Ioan. 10</note> He ſayeth not
+my ſhepe hath a delyghte and pleaſure too
+beholde vayne Idols and mahounde lyke
+Mawmettes.<note place="margin">Pſal. 119.</note> Thy ſeruaunt Dauid calleth
+them bleſſed / that ſearche thy teſtimonies
+and haue a pleaſure too ſtudie in thy lawe
+daye and night.<note place="margin">Pſalm. 1.</note> For thy holy worde is only
+the boke / wherin thy people ought to looke / 
+and not dumme Images &amp; carued Idolles / 
+which are curſed of the in thy holy law / yea
+&amp; the makers of them alſo.<note place="margin">Deut. 27</note> Ah Lorde God / 
+they that haue this procured / that thy holy
+worde ſhould be wyped and blotted out of
+the churches / is it not to be thoughte / that
+their names are blotted and wyped<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of
+the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oke of lyfe alſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Yea / is it not too be
+thought that ſuch Antichriſtes wold gladly
+haue bothe the / &amp; thy holy worde / yea / &amp; thy
+bleſſed name ſo blotted &amp; wyped out of all
+mens hartes / that thou mighteſt neuer be<note place="margin">The holy ſcriptures vvyped out of the tem<g ref="char:EOLhyphen"/>ples, &amp; idols placed.</note>
+               <pb facs="tcp:10925:18"/>
+remembred more / but that they and theyr
+deueli<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> decrees might alone raygne / rule / 
+ruffle and triumphe / makyng all men euen
+from the hygheſt to the loweſt their miſe<g ref="char:EOLhyphen"/>rable
+captiues &amp; wretched bond ſlaues: It
+maye right wel be ſayde vnto them / as our
+ſauiour Chriſt ſayd vnto the wicked &amp; ſtyf<g ref="char:EOLhyphen"/>necked
+Iewes: He that is of God / heareth
+the worde of God.<note place="margin">Ioan. 8. Ioan. 10.</note> Ye therfore heare it not / 
+becauſe ye are not of God. Again / ye beleue
+not / becauſe ye are not of my ſhepe.<note place="margin">Iere. 3.</note> Ah Lord
+theſe chyldren of Bel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all haue forſaken the
+thalone fountayne of lyuely water / &amp; they
+haue dygged to the<g ref="char:cmbAbbrStroke">̄</g> ſelfs puddels / yea / dyle
+&amp; dyrtie puddels / that are able too holde no
+water. They are ſuch people / as co<g ref="char:cmbAbbrStroke">̄</g>tinually
+prouoke the vnto anger.<note place="margin">Eſa. 30.</note> They are lye<g ref="char:cmbAbbrStroke">̄</g>g chyl<g ref="char:EOLunhyphen"/>dre<g ref="char:cmbAbbrStroke">̄</g>
+/ yea / ſuch chyldre<g ref="char:cmbAbbrStroke">̄</g> / as will not heare the
+law of God. They ſay to the preachers / loke
+oute of the ſcriptures no good leſſo<g ref="char:cmbAbbrStroke">̄</g>s for vs.
+And to the godly lerned they ſay / tel not vs
+thoſe thinges that are right / neither rebuke
+our wickednes &amp; Idolatry / but ſpeake vnto
+vs pleaſau<g ref="char:cmbAbbrStroke">̄</g>t thi<g ref="char:cmbAbbrStroke">̄</g>ges / &amp; ſuch as we delight too
+heare. Tel not vs of gods a<g ref="char:cmbAbbrStroke">̄</g>ger / iuſtice &amp; iud<g ref="char:EOLhyphen"/>geme<g ref="char:cmbAbbrStroke">̄</g>t
+againſte the ſtifnecked idolators / but
+preach vnto vs fals thinges / fables / lyes / er<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors
+/ ſaicts liues out of the golde<g ref="char:cmbAbbrStroke">̄</g> lege<g ref="char:cmbAbbrStroke">̄</g>d / nar<g ref="char:EOLunhyphen"/>racio<g ref="char:cmbAbbrStroke">̄</g>s
+out of the feſtiual / exa<g ref="char:cmbAbbrStroke">̄</g>ples out of <hi>Vi<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as
+patru<g ref="char:cmbAbbrStroke">̄</g>,</hi>
+               <note place="margin">The doctri<g ref="char:EOLhyphen"/>ne of the pa<g ref="char:EOLunhyphen"/>piſtes.</note> authorites out of ſermo<g ref="char:cmbAbbrStroke">̄</g>s <hi>Dormi</hi>
+               <pb facs="tcp:10925:19"/>
+mens tradicions / laudable ceremonies / co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mendable
+cuſtomes / holye rites / aunciente
+vſages / good ente<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes / iuſtificacion of wor<g ref="char:EOLhyphen"/>kes
+/ tranſſubſtantiacion / the corporall pre<g ref="char:EOLhyphen"/>ſence
+of Chriſt / in the Sacramente of the
+aultare / vnder the accidentes of bread / &amp;c.
+The propiciatory ſacrifice of the maſſe / the
+receauinge of the Sacramente vnder one
+kynde / contrary to Chriſtes inſtitucion / au<g ref="char:EOLunhyphen"/>riculare
+confeſſion / &amp;c. Treade oute of the
+waye / go out of the pathe / awaye with the
+holy one of Iſrael from vs. We are weary
+of hym. It greueth vs to remember hym.
+We can neyther abyde hys word truly prea<g ref="char:EOLunhyphen"/>ched
+/ nor yet his lawes writte<g ref="char:cmbAbbrStroke">̄</g> in our chur<g ref="char:EOLunhyphen"/>ches.
+Oute with the ſcriptures / &amp; in wyth
+the Idols and Mawmettes.<note place="margin">Pſal. 79.</note> O Lord God / 
+are not theſe the Heathen / that haue braſte
+into thyne heritage / that haue defyled thy
+holy temple / and made Ieruſalem an heape
+of ſtones? haue mercy on vs / o Lorde / haue
+mercy on vs.</p>
+            <p>Heretofore,<note place="margin">The confir<g ref="char:EOLhyphen"/>mation of chyldren.</note> we were taughte ſo to bring
+vp oure chyldren in the principles of Chri<g ref="char:EOLhyphen"/>ſten
+religion / that whan they ſhould come
+to be confirmed of the biſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hop / they mighte
+be able to ſaye the articles of the fayth / the
+Lordes prayer / and the ten commaundeme<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tes
+/ and to aunſwere to ſuch queſtions / as
+are contayned in that ſhorte Catechiſme / 
+<pb facs="tcp:10925:19"/>
+which was apointed to be learned of euery
+chylde / before he were brought to be co<g ref="char:cmbAbbrStroke">̄</g>fyr<g ref="char:EOLhyphen"/>med.
+But now the papiſtes ſaye to ſuch as
+are witneſſes of the chyldes baptiſme: Ye
+are bounde by the order of our mother the
+holy church to ſe / that this chylde be co<g ref="char:cmbAbbrStroke">̄</g>fyr<g ref="char:EOLhyphen"/>med
+ſoo ſone as is poſſible / or aſſone as ye
+heare that the biſſhop cometh within ſeue<g ref="char:cmbAbbrStroke">̄</g>
+myles of this towne / without any furder
+delaye. Of the thinges contayned in the
+godly Catechiſme / for the righte inſtitucio<g ref="char:cmbAbbrStroke">̄</g>
+of the chylde / they make no mencion. And
+what is the confyrmacion of the chyldren / 
+that is vſed at thys preſent / but playn ſorce
+rye / deuelerye / wytchcrafte / iuglinge / leger
+demayne / and all that nought is? The Biſ<g ref="char:EOLhyphen"/>ſhop
+mumbleth a fewe latin woordes ouer
+the chylde / charmeth hym / croſſeth hym / 
+ſmeareth hym with ſtinckinge popiſh oyle / 
+and tyeth a lynnen bonde about the chyl<g ref="char:EOLhyphen"/>des
+necke / and ſendeth hym home. O Lord
+God / what a confirmacion of the chyldes
+fayth is this? Yea / rather what a deluſion
+ann mocking is this of the godly auncient
+cuſtome / in confirming chyldren?</p>
+            <p>Heretofore / we were taughte too bringe
+vp oure chyldren in the knowledge of the &amp;
+thy ſonne Chriſt / that euen from the very
+cradles they might be enſtructed in thy ho<g ref="char:EOLhyphen"/>lye
+miſteries / &amp; learn to feare the / to beleue<note place="margin">The Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>chiſme both in Latin &amp; in Engliſh.</note>
+               <pb facs="tcp:10925:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10925:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10925:21"/>
+in the / to love the / to pray vnto the / to be
+thanckfull vnto the / &amp; to frame theyr whol
+lyffe accordyng to thy bleſſed law<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / that
+they myght ſerue the theyr lorde god in ho<g ref="char:EOLhyphen"/>lynes
+&amp; ryghteouſnes all the dayes of theyr
+lyfe. And for thys purpoſe had we ſetforthe
+a godly &amp; learned catechiſme bothe in latin
+&amp; in Englyſſe / wherin owr longe ones wer
+moſte vertuouſly brought vp vnto the gre<g ref="char:EOLunhyphen"/>ate
+ioy of theyr parentes / the ſingulare con<g ref="char:EOLunhyphen"/>fort
+of al godly Chriſtianes / &amp; the wonder<g ref="char:EOLhyphen"/>ful
+encreaſe bothe of thy glory &amp; of all god<g ref="char:EOLhyphen"/>lynes
+&amp; vertue. But now the wicked Pa<g ref="char:EOLhyphen"/>piſtes
+/ wyche alway deale extremly wythe
+the ryghteous and take away theyr labou<g ref="char:EOLhyphen"/>res<note place="margin">Sap. 5.</note>
+/ haue condemned that Chriſten Chate<g ref="char:EOLhyphen"/>chiſme
+as hereſye / &amp; haue procured certayu<note place="margin">Catechiſme condemned for hereſi. Articles fro<g ref="char:cmbAbbrStroke">̄</g> the Quene</note>
+Antichriſtiane articles from the Quene / 
+wherin among to many other / a ſtreyght
+co<g ref="char:cmbAbbrStroke">̄</g>mandement is geten / that children ſhuld
+ſo be brought vp / that they myghte learne
+to healpe the Prieſte ſay maſſe wych maſſ
+is the very fonntayne and heade ſprynge
+off all i<g ref="char:cmbAbbrStroke">̄</g>dolatrye and ſpirituall whordome.
+Ah lorde God / ſhy ſervannts bothe in the
+olde and newe teſtament broughte vp theyr
+chyldren farre other wyſe / as the heſtories<note place="margin">Exe<g ref="char:cmbAbbrStroke">̄</g>ples of bringing vp children.</note>
+of Abraham / Iſaac / Jacob / Daniel / Tobie / 
+Mathathiae / the Parentes of Suſanne &amp;
+of Timothe / Philippe the Eua<g ref="char:cmbAbbrStroke">̄</g>geliſte / and
+<pb facs="tcp:10925:21"/>
+ſuche other do declare / And thy holy co<g ref="char:cmbAbbrStroke">̄</g>ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>deme<g ref="char:cmbAbbrStroke">̄</g>t
+is not / that Pare<g ref="char:cmbAbbrStroke">̄</g>tes ſhuld bryng vp
+theyr children in learnynge to healpe and I<g ref="char:EOLhyphen"/>latrous
+Prieſte to ſay his abhominable &amp;
+blaſphemous maſſe / but to knowe the their
+lorde God / to beleue in the / to feare &amp; loue
+the / to callvpo<g ref="char:cmbAbbrStroke">̄</g> thy bleſſed name / to betha<g ref="char:cmbAbbrStroke">̄</g>c<g ref="char:EOLhyphen"/>kefull
+vnto the / and to faſſon theyr lyffe ac<g ref="char:EOLhyphen"/>cordyng
+to thy holy worde &amp; co<g ref="char:cmbAbbrStroke">̄</g>mandeme<g ref="char:cmbAbbrStroke">̄</g>t.</p>
+            <p>Heyrtofor we wer taught / that it is law<note place="margin">Of the mar<g ref="char:EOLunhyphen"/>age of Prii<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tes.</note>
+full for euery maue / be he Byſhoppe / Priſ<g ref="char:EOLunhyphen"/>te
+/ Deacon / Monke / Fryer / Chauon / Here
+mite / or ani other / that haue not the gifte
+of continencye / to take vnto hym a ffaythe
+full yoke fellowe / and with her to marrye
+in thy feare / and to poſſeſe his owne veſſel<note place="margin">1 Theſ. 4 1 Cor. 7. Heb. 13.</note>
+in holynes &amp; honore / as thyne holy apoſtle
+ſaythe / to auoyde fornication let every ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>haue
+his awne wyffe / &amp; every woman her
+awne huſbond. Agayn / maryage is hono<g ref="char:EOLhyphen"/>rable
+amonge all mene and the bedde vnde
+fyled. But whormongers and adulterers
+God ſhall iudge. But now the wycked
+Papiſtes thoſe lecherous lubers / thoſe fyl
+thy fornicatours / theſe abhominable adul<g ref="char:EOLhyphen"/>terers
+/ thoſe ſrynckyng Sodemites / thoſe<note place="margin">Papiſtes.</note>
+canckred corruptours of maydes / wyffs / &amp;
+wydowes / thoſe debylyſhe deſpiſers of all
+ſhamefaſtnes / chaſtite &amp; honeſte / thoſe mo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſtrous
+mai<g ref="char:cmbAbbrStroke">̄</g>tainers of all lice<g ref="char:cmbAbbrStroke">̄</g>tious lyuyng / 
+whordome &amp; deſhoneſte / C. 4. and
+<pb facs="tcp:10925:22"/>
+and thoſe ſynnefull ſynckes of all fylthy &amp;
+lotheſome abhominacions haue broughte
+the godly and lawefull marriage of mini<g ref="char:EOLhyphen"/>ſters
+/ and their wyues vnto thys poynt / 
+that it is now counte<g ref="char:cmbAbbrStroke">̄</g>d whordome. The
+faythfull houſbandes are taken for whore<g ref="char:EOLhyphen"/>mongers
+/ and their honeſt wyues for who<g ref="char:EOLhyphen"/>res.<note place="margin">The tira<g ref="char:cmbAbbrStroke">̄</g>nij of the cruell papiſtes, in deuorcinge prieſtes and their vvij<g ref="char:EOLhyphen"/>ues.</note>
+Yea / vnto ſuche an heyghte is their fu<g ref="char:EOLhyphen"/>rious
+madnes and madde furye groune / 
+that they againſte all right and conſcience / 
+againſt all trueth and honeſtie / do not only
+moſte wickedly deuorce them / but they alſo
+cruelly compell dyuers of the miniſters / 
+whiche are faynteharted / and where / as it
+ſemeth / but tymelinges / ſeruing rather the
+time (as the manner of the worldlinges is)
+than maryeng in thy feare / to do open pe<g ref="char:EOLhyphen"/>naunce
+before the people / and to confeſſe (o
+the to much corrupt manners of this ſyn<g ref="char:EOLhyphen"/>nefull
+worlde) that their marriage was no
+marriage / but playn whordome.<note place="margin">Repente ye vvic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed blaſphmers of honora<g ref="char:EOLhyphen"/>ble marria<g ref="char:EOLhyphen"/>ge, &amp; tabe<g ref="char:EOLunhyphen"/>lour vvij<g ref="char:EOLhyphen"/>ues againe vnto iou.</note> And there
+thoſe fylthye dogges / whiche are returned
+vnto their vomite / moſte wretchedly couche
+and knele doune before the people / and de<g ref="char:EOLhyphen"/>ſyre
+them to forgeue them / and promiſe that
+they will neuermore come in their wyfes
+company / but fro<g ref="char:cmbAbbrStroke">̄</g> henſforth / lyue like good
+and catholike men / accordinge to the order
+of their holy prieſthoode / that is to ſaye / ab<g ref="char:EOLhyphen"/>ſtayne
+from honorable wedlocke / &amp; defyle
+<pb facs="tcp:10925:22"/>
+them ſelfes with all kynde of whordome / 
+vnclennes and diſhoneſtie.<note place="margin">Leuit. 21. Eze. 44.</note> Ah Lorde God / 
+thou commaundeſt thy prieſtes in the olde
+lawe / not onely too marrye / but thou alſo
+appointeſt them / what wyues they ſhould
+marrye / whiche thinge thou woldeſt not
+haue done / if the marryage of prieſtes had
+bene ſoo vile and deteſtable a thinge in thy
+ſight / as the wicked &amp; fylthy papiſtes make
+it. In the newe lawe alſo the men / whome
+thy welbeloued ſonne did choſe in this vale
+of miſery to be his diſciples and apoſtles / 
+to be the preachers of his glorious Goſpell / 
+and the adminiſtratours of his holy Sa<g ref="char:EOLhyphen"/>cramentes
+/ were not fleſhely votaries / as
+the papiſtes are / but honeſt and godly mar<g ref="char:EOLhyphen"/>ried
+men / lyuinge with their wyues / accor<g ref="char:EOLhyphen"/>ding
+to thy holy ordinaunce / ud bringynge
+vp their chyldren in thy feare / and after the
+doctrine of thy bleſſed worde. Neyther dyd
+the apoſtles put awaye their wyues / after
+they were called vnto the miniſtery / as the
+lyenge papiſtes for a colour of their ſynful
+lyfe do moſte falſhly fayne / but they conti<g ref="char:EOLhyphen"/>nued
+with their wyues louingly &amp; faythe<g ref="char:EOLhyphen"/>fully
+/ tyll death departed them / as we may
+ſe in auncient hiſtories / and as it may eaſly
+be gathered of the manifeſt woordes of the
+holy ſcriptur. Haue not we power / ſaieth
+the apoſtle / to lede about a ſyſter to wyfe / <note place="margin">1. Cor. 9.</note>
+               <pb facs="tcp:10925:23"/>
+as wel as other apoſtles / &amp; as the brethren
+of the lorde and Cephas? Ether only I and
+Barnabas haue not poure this to do: Here
+is it evident / that thapoſtles of Criſte did
+not o<g ref="char:cmbAbbrStroke">̄</g>ly not put away their wyues after the
+were called vnto the miniſterre / as the fals
+Papiſtes fable but they alſo led their wyff<g ref="char:EOLunhyphen"/>es
+about with them / as theye went abrode?
+preachyng the goſpell of criſt.<note place="margin">Eccl. hiſt. lib. 3. ca. 30.</note> Rede we not
+that S. peter continued withe his wife vn<g ref="char:EOLunhyphen"/>tyl
+her dyeng day / and that whan ſhe was
+ledde vnto the place of execution to ſuffer
+deathe for co<g ref="char:cmbAbbrStroke">̄</g>feſſyng Chriſte to be God / S.
+Peter her huſbond folowed her / exhorted
+her to be ſtronge in the faythe of Chriſte / &amp;
+ſayde vnto her: O wyfe / reme<g ref="char:cmbAbbrStroke">̄</g>ber the Lor<g ref="char:EOLhyphen"/>de?
+oh wythe whatforheade durſie Peter
+have exhorted men to dwel in howſe toge<g ref="char:EOLhyphen"/>ther<note place="margin">1. Pet. 3.</note>
+withe theyr wyffes accordyng to their
+knoulege / if he contrary to his knowledge
+had putte awaye his wyffe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wythe what
+face coulde thapoſtle.<note place="margin">Philip. 4</note> ſ. Paule haue made
+me<g ref="char:cmbAbbrStroke">̄</g>cion of his wyffe / callyng her his faithe
+full yoke fellowe / &amp; deſyryng her to healpe
+the wemen / whiche laboured withe hime
+in the goſpel / if he beyng vnfaythefull had
+putte awaye his wyffe co<g ref="char:cmbAbbrStroke">̄</g>trary to his pro<g ref="char:EOLhyphen"/>miſe
+&amp; the lawe of God? If thapoſtles had
+putte awaye theyr wyffes after they were
+called vnto the miniſtery and preachyng of
+<pb facs="tcp:10925:23"/>
+howe durſte Paule haue bene ſo bolde / as<note place="margin">1. Cor. 9.</note>
+to wryghte vnto the Corithians / that thei
+ledde theyr wyffes aboute wihe theme?
+Yea / iff thapoſtles had putte awaye theyr
+wyffes / howe coulde they haue exhorted
+other men accordyng to the lawe of God / 
+to forſake father &amp; mother &amp; to cleue vnto<note place="margin">Gen. 2. Mar. 19. Mat. 5.</note>
+theyr wyffes / &amp; no man to forſake his wife
+for any cauſe excepte it befor fornication.
+This their for is but a ſhadowe of the fil<g ref="char:EOLhyphen"/>thye
+Papiſtes to blynd the eyes of the ſim<g ref="char:EOLhyphen"/>ple
+and ignora<g ref="char:cmbAbbrStroke">̄</g>te. Furthermore all the holy
+Biſhoppes and miniſters of the primatiue
+chirche were marryed mene / or at the leaſt
+were at libertie to marrye / if they wolde.</p>
+            <p>Agayne / the Prieſtes among the Grekes
+even from thappoſtles tyme vnto this day
+haue euer bene at libertie to marrye / ney<g ref="char:EOLhyphen"/>theyr
+is theyr miniſterye theffror the les
+eſtemed of the godly / whiche are perſuaded
+by the worde of God / that wedlocke is ho<g ref="char:EOLhyphen"/>norable<note place="margin">Hebr. 13.</note>
+among all mene &amp; the bedde vnde<g ref="char:EOLhyphen"/>fyled.
+The maryage of Prieſtes was neuer
+for bydden in any place. tyll Antichriſte off
+Rome broughte it to paſſe / partely by the ti<g ref="char:EOLunhyphen"/>ra<g ref="char:cmbAbbrStroke">̄</g>ny
+of the ſeculare power / and partely by
+flatteryng wordes grau<g ref="char:cmbAbbrStroke">̄</g>tyng Prieſtes co<g ref="char:cmbAbbrStroke">̄</g>cu<g ref="char:EOLunhyphen"/>bines
+&amp; whoresin ſtead off their lawefull
+wyffes / who<g ref="char:cmbAbbrStroke">̄</g> for a<g ref="char:cmbAbbrStroke">̄</g> yerely pe<g ref="char:cmbAbbrStroke">̄</g>ſio<g ref="char:cmbAbbrStroke">̄</g> they may at
+their pleaſure etheyr kepe ſtil or putte aw<g ref="char:EOLhyphen"/>aye
+/ &amp; take anewe.</p>
+            <p>
+               <pb facs="tcp:10925:24"/>
+But o heauenly father / as thy faithful ſer<g ref="char:EOLunhyphen"/>uaunt
+Paule prophecied longe before / ſoo
+is it come to paſſe.<note place="margin">1. Tim. 4</note> The ſpirite ſpeaketh eui<g ref="char:EOLunhyphen"/>dently
+/ ſayeth he / that in the latter dayes / 
+ſome ſhall departe from the faythe / &amp; ſhall
+geue hede vnto ſpirites of errour and deue
+liſh doctrine of them / whiche ſpeake fals<note place="margin">Paules pro<g ref="char:EOLhyphen"/>phecie ful<g ref="char:EOLhyphen"/>filled.</note>
+thorowe hypocriſye / and haue their conſcie<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ces
+marked with an h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te yron / forbiddinge
+to marrye. This prophecye is fulfylled in
+that Antichriſte of Rome / and in his who<g ref="char:EOLhyphen"/>riſh
+generacion. For they alone forbid mar<g ref="char:EOLhyphen"/>ryage
+/ which thing neyther Jew / nor Turke
+nor any Iufidel beſydes dothe. Neyther can
+the papiſtes thyfte of this prophecye / from
+them vnto certayn here<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ykes / which vtterly
+condemned marryage. For the holy Apoſtle
+prophecieth of ſuch as forbidde marryage / 
+and not of them that vtterly caſte away &amp;
+condemne marryage as a thing altogether
+vncleane and vnmete for a Chriſten man.
+They therfore that forbid the marryage of
+prieſtes are by the iudgement of the mooſte
+worthy apoſtle / yea / of the holy Ghoſte / de<g ref="char:EOLunhyphen"/>parted
+from the ſaythe / and geue hede too
+the ſpirites of errour and deueliſh doctrine
+of them / whiche ſpeake falſe thorow hypo<g ref="char:EOLhyphen"/>criſye
+/ and haue their conſcience marked
+with an hote yron / be they Popes / Cardi<g ref="char:EOLhyphen"/>nalles
+/ Biſhoppes / Emperours / Kynges / 
+<pb facs="tcp:10925:24"/>
+Quenes / Dukes or any other. Swifte da<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>nacion
+bring all ſuche vpon themſelfes / ex<g ref="char:EOLhyphen"/>cept
+they ſhortely repent.</p>
+            <p>Heretofore / we had ſuche ſhepehardes / <note place="margin">Godlij Biſ<g ref="char:EOLhyphen"/>ſhops and faithfull preachers.</note>
+as were tender foſters of thy flocke. They
+cheryſhed and made much of thy thepe. For
+ſuche as were weake / they tenderly cheriſ<g ref="char:EOLhyphen"/>ſhed
+/ the ſyke they healed / the broken they
+bounde vp together / the outcaſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es &amp; ſuche
+as ranne aſtraye / they louingly broughte
+home agayne / the loſte they diligently ſou<g ref="char:EOLhyphen"/>ghte
+/ and reſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ored them too the ſhepefolde.
+None of thy ſhepe did they willingly ſuffer
+to periſhe. Euen as a nurſe amo<g ref="char:cmbAbbrStroke">̄</g>g her chyl<g ref="char:EOLhyphen"/>dren
+/ ſo lyued they amonge thy people. Not
+with the ſoure leauen of the Phariſeys / 
+but with the heauenly Manna of thy bleſ<g ref="char:EOLhyphen"/>ſed
+worde did they fede thy flocke. Neither
+did they geue thy thepe drincke of the ſtinc<g ref="char:EOLhyphen"/>king
+and dyrtie puddels of mens tradicio<g ref="char:cmbAbbrStroke">̄</g>s / 
+but of the fountayne of that lyuing water / 
+which ſpringeth vnto euerlaſting life. But
+now the ſhepehardes / yea / rather the wol<g ref="char:EOLhyphen"/>fes<note place="margin">Ioan. 4. Vv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhepehar<g ref="char:EOLhyphen"/>des.</note>
+/ which are braſte into thy ſhepefolde / &amp;
+with violence haue vniuſtly thruſt out the
+faythfull and fatherly paſtores out of their
+tures / are lordely / cruel / bloudthyrſtye / ma<g ref="char:EOLhyphen"/>licious
+and ſpyteful agaynſte thy ſhepe.
+They are ſuch wolfs as ſpare n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the flocke
+but ſcatter &amp; deſtroye the flocke. They are
+<pb facs="tcp:10925:25"/>
+theues / robbers / murtheras &amp; ſoule ſlears.<note place="margin">Act. 20. Ioan. 10. Ezec. 34.</note>
+thei fede the<g ref="char:cmbAbbrStroke">̄</g> ſelues with the fatteſt &amp; clothe
+the<g ref="char:cmbAbbrStroke">̄</g> ſelues wythe the fyneſte wolle / but thy
+flocke thy noryſhe not the foode / wherwith
+they paſture thy ſhepe / is the drowſyedrea<g ref="char:cmbAbbrStroke">̄</g>s
+and idle imaginacions of Antichriſte. In ſte<g ref="char:EOLhyphen"/>ed
+of the peachyng of thy lyuely worde / the
+fede thy ſtocke wythe latin munblynges / 
+wythe dume Images wyth Hethnyſhe ce<g ref="char:EOLhyphen"/>rymonies
+wyth dayne ſyghtes / and ſuche
+other apyſh toys. In ſted of the miniſtracio<g ref="char:cmbAbbrStroke">̄</g>
+of the holy and bleſſed Co<g ref="char:cmbAbbrStroke">̄</g>munion the fede
+thy ſhepe wythe vile ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynckyng / abhomin<g ref="char:EOLhyphen"/>able
+deulyſhe / blaſphemus &amp; Idolatryous
+Maſſes. And vnto thes vnwholſome and
+peſtilent and poyſomfull paſtures the dry<g ref="char:EOLhyphen"/>ue
+thy ſhepe / wyll they nyl they. &amp; if any of
+thy floche refuſe to come and taſte of thoſe
+their peſtile<g ref="char:cmbAbbrStroke">̄</g>t poyſo<g ref="char:cmbAbbrStroke">̄</g>s &amp; poiſo<g ref="char:cmbAbbrStroke">̄</g> ful peſtilences / 
+him they accite to appere befor that greate
+wolfe / whoſe face is lyke vnto the face of a
+ſhe beare that is robbed of her yonge ones / 
+whoſe eyes co<g ref="char:cmbAbbrStroke">̄</g>tinually burne withe the vn<g ref="char:EOLunhyphen"/>que<g ref="char:cmbAbbrStroke">̄</g>cheable
+flames of the deadly cockatrice / 
+whoſe teethe are lyke to the venomous te<g ref="char:EOLhyphen"/>thes<note place="margin">The deſcrip<g ref="char:EOLunhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> of a cer<g ref="char:EOLhyphen"/>taine heade vvolfe clad<g ref="char:EOLhyphen"/>de in a Biſh<g ref="char:EOLhyphen"/>opes rotche<g ref="char:EOLunhyphen"/>te. Pſal. 9.</note>
+of the rampyng lyon / whoſe month is
+full of curſed ſpeaking &amp; bitternes / whoſe
+to<g ref="char:cmbAbbrStroke">̄</g>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeakithe extrem blaſphemes agaynſt the
+&amp; thy holy annoited / whoſe lippes at ful of
+deadly poiſo<g ref="char:cmbAbbrStroke">̄</g>ne / whoſe throte is an open ſe<g ref="char:EOLhyphen"/>pulchre
+/ whoſe breathe fomethe &amp; bloweth
+<pb facs="tcp:10925:25"/>
+out threatenyng &amp; ſlauther agaynſt the diſ<g ref="char:EOLunhyphen"/>ciples<note place="margin">Pſal. 5. Act. 9.</note>
+of the Lorde / whoſe harte with<g ref="char:EOLhyphen"/>out
+ceaſyng imaginethe wickednes / whoſe
+handes haue a delighte to be embrued with
+the bloode of the Sainctes / whoſe fete are
+ſwifte to ſhed bloode / whoſe whole manne
+bothe body &amp; ſoule go alwaies vp &amp; down
+muſyng of myſchyff.<note place="margin">Pſalm. 13.</note> This wolfe / o Lorde
+/ is ſo arroga<g ref="char:cmbAbbrStroke">̄</g>te / haultie and prowde / ſeyng
+the gouerneme<g ref="char:cmbAbbrStroke">̄</g>t of the whole Realme is co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>mitted
+vnto hym / that he hathe caſte awaie
+all feare of the. He makethe boſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e off hys
+awne witte learnyng &amp; pollecye. His way<g ref="char:EOLhyphen"/>es
+are alwaye fylthye / thy iudgeme<g ref="char:cmbAbbrStroke">̄</g>tes are<note place="margin">Pſal. 9.</note>
+farre out of his ſyghte / he defyethe all hys
+enemies. For he ſaythe in his hearte: tuſhe / 
+I ſhal never be caſte downe / theyr ſhall no
+harme happen vnto me. He ſytte the lur<g ref="char:EOLhyphen"/>king
+lyke a lyon in his denne / that he maie
+prinely murther the innocent &amp; ſucke hys
+bloode. Whan ſuche / o Lorde God / as will
+not obeye their popiſh and deuelyſhe proce
+dyngs / are broughte before that grevous
+wolffe / they are miſerably tau<g ref="char:cmbAbbrStroke">̄</g>ted / mocked / 
+ſchorned blaſphemed / as thi derely beloued
+ſone was in Biſhope Caiphas howſe / and<note place="margin">Mat. 26. Mar. 14. Luc. 22.</note>
+afterwarde cruely co<g ref="char:cmbAbbrStroke">̄</g>mitted to preſo<g ref="char:cmbAbbrStroke">̄</g> / to the
+towre / to the flete / to the marſhalſeas / to
+the Kynges be<g ref="char:cmbAbbrStroke">̄</g>che / to the Counters / to Lol<g ref="char:EOLhyphen"/>lardes
+towre / to Newgate &amp;tc.</p>
+            <p>
+               <pb facs="tcp:10925:26"/>
+Where they are kepte as ſhepe in a pynne<g ref="char:EOLhyphen"/>folde
+appointed to be ſlayne. And as thys
+cruel &amp; bloudy wolf dealeth with the poore
+lambes / euen ſo do the reſedue of that let che<g ref="char:EOLunhyphen"/>rous
+litture. He with all other of that wol<g ref="char:EOLhyphen"/>fythe
+kynde / hunger and thyrſte nothing ſo
+greatly / as the deuouring of the bodies / and
+the ſucking of the bloude of thy poore and
+innocent lambes.<note place="margin">Pſal. 10.</note> Ah Lorde / whyle the vn<g ref="char:EOLhyphen"/>godly
+haue the ouerhande / the poore are
+moſte wretchedly ha<g ref="char:cmbAbbrStroke">̄</g>dled. They are prayes
+vnto the wolfes. Ariſe therefore / o Lorde
+God / lyfte vp thine hande / and forget not
+the poore / whiche geueth them ſelfe ouer
+into thy hande / and committeth hym vnto
+thy defence. Breake thou the arme of the
+vngodly and malicious / ſearch out the wic<g ref="char:EOLunhyphen"/>kednes
+/ whiche he hath done / that he maye
+ſhortly periſh from the lande of the liuing.
+Suffer thy ſhepe nomore to be thus miſe<g ref="char:EOLhyphen"/>rably
+ſcattered / rente / torne and deuoured
+of theſe moſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cruell / greuous / and inſatia<g ref="char:EOLunhyphen"/>ble
+wolfes. Remember this thy promiſe:
+Beholde / I my ſelf will vpon the ſhepeher<g ref="char:EOLunhyphen"/>des<note place="margin">Eze. 34.</note>
+/ and requyre my ſhepe from their han<g ref="char:EOLhyphen"/>des
+/ and make them ceaſe fro<g ref="char:cmbAbbrStroke">̄</g> feding of my
+ſhepe / yea / the ſhepehardes ſhall fede them
+ſelfs nomore. For I will deliuer my ſhepe
+out of their mouthes / ſo that they ſhal not
+deuoure them after this / &amp;c. Beholde / I
+<pb facs="tcp:10925:26"/>
+Beholde I wille looke to my ſhepe myſelff
+and ſeke them. Like as a ſheppherde among
+the flocke ſeakethe after the ſhepe that are<g ref="char:EOLhyphen"/>ſcattered
+abrode. Euen ſo wil<g ref="char:punc">▪</g> I ſeke aftere
+my ſhepe and gathere them together out of
+all landes. I will brynge theme into theire
+owne lande / and fede them vpon the moun<g ref="char:EOLunhyphen"/>taines
+of Iſrael by the riuers / and in all the
+places of the contre. I will fede theme <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>righte
+good paſturs / &amp; vpon the hye moun<g ref="char:EOLunhyphen"/>taynes
+of Iſrael ſhall their foldes be. There
+ſhall there l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in a good folde and in a fatte
+paſtur ſhall they fede / euen vpon the moun<g ref="char:EOLunhyphen"/>taynes
+of Iſrael. I will ſede my ſhep my ſelf
+&amp; bryng them to theyr reſt / ſaythe the Lorde
+God. Su<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he as be loſt / wil I ſeke / ſuche as
+go aſtraye / will I brynge agayne ſuche a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>be
+wounded / will I bynde vp / ſuche as be
+weake / will I make ſtronge / ſuche as be fate
+and well lykynge / thoſſe will I preſerue / &amp;
+fede them withe the ſhynge that is Lawful
+/ &amp;c. I will helpe my ſhepe / ſo that they ſhall
+nomore be ſpoyled. I will make a covenant
+of peace with them / &amp; dryue all euyl beaſtes
+out of the Lande / ſo that they maye dwelle
+ſaffely in the wyldernes / &amp; ſleap in the words.
+Good fortune and p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſſperite will I gyue
+them / &amp; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto all that be rounde aboute my
+hyll. A proſſperous ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer &amp; ray<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will I<g ref="char:EOLhyphen"/>ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de
+theme in due ſeaſon that / the trees in
+<pb facs="tcp:10925:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10925:27"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10925:28"/>
+the woode maye bryng forthe theyr frutes / 
+&amp; the ground hir increas. They ſhall be ſaff
+in the lande and ſhall knowe. That I am the
+Lorde / whiche haue broken their yoke / and
+delyuered them out of the handes of thoſe / 
+that heylde them in ſubieccione. O Lorde.
+God &amp; our heuenly father haue pitie on thy
+poor afflicted &amp; ſcattered flocke / &amp; accordyng
+to theyes thy louy<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge &amp; father lye promyſſes
+deale with thy people. So ſhall all men vn<g ref="char:EOLunhyphen"/>derſtande
+/ that thoue arte theyre Lord God
+and ſhepparde / and that they are thy people.
+and the ſhepe of thy paſtur / and by this mea<g ref="char:EOLunhyphen"/>nes
+be occaſioned to mangnifie and prayſe<g ref="char:EOLhyphen"/>thy
+holy nam for ener &amp; euer.</p>
+            <p>Heretofore the preachers of thy holi vorde
+&amp; the faythfull miniſters of the Sacrame<g ref="char:cmbAbbrStroke">̄</g>ts<note place="margin">Preachars<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſters hertofor re<g ref="char:EOLhyphen"/>uerenced. 1. Timo 5</note>
+wer had in double honor accordi<g ref="char:cmbAbbrStroke">̄</g>g to the doc<g ref="char:EOLhyphen"/>trin
+of the holy ſcripturs. But nowe of all
+mene they are moſte miſerable. For beſides
+the tomoche deſpite full wordes / wherwith
+the wickid Papiſtes laboure to obſcure and
+deface / ſomoch as lyghethe in them <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he good
+name of the godly minſters? Howe cruelly
+&amp; agaynſte all order of Lawe are they thruſt
+out of theyr lyuynges / and depriued of all / 
+that they had / inſomoche that they &amp; theyr<g ref="char:EOLhyphen"/>poore
+wyffes withe their yonge Childeren
+are not only brought to the ſtate of pouerte
+but alſo vnto extrem beggeri without hous
+<pb facs="tcp:10925:28"/>
+or harbour / without meat / drynk &amp; clothe.
+Yea ma<g ref="char:cmbAbbrStroke">̄</g>y of them / becaus they wil not be de<g ref="char:EOLhyphen"/>filed
+with the Idolatre of Antichriſt / which
+is now receaneed agayne into E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>glande an
+bowe theyr knee vnto Baal / are compelled
+to forſak theyr natyu contrie / their pare<g ref="char:cmbAbbrStroke">̄</g>tes
+/ theyr frendes / theyr lyuynges / and to wan<g ref="char:EOLunhyphen"/>der
+abrode in ſtrange Realmes / ledyng moſte
+ſorowfull &amp; confortles liues / but that they<g ref="char:EOLhyphen"/>haue
+the their good Lorde &amp; merciful father
+/ which conforteſt them in all their tribula<g ref="char:EOLhyphen"/>cyon
+/ and leauyſt non without ſocoure that
+put their truſt in the.</p>
+            <p>Thus ſeiſt thowe (O moſte mercifull fa<g ref="char:EOLunhyphen"/>ther)
+Howe miſerabli the face of the chryſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+comon weale of England is beyond all mea<g ref="char:EOLunhyphen"/>ſure
+defame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.<note place="margin">The Chriſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> como<g ref="char:cmbAbbrStroke">̄</g> vveal of England<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> miſerabl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> formed.</note> Thns ſeiſt thoue / howe thy<g ref="char:EOLhyphen"/>godly
+doctrine and moſt holy ordinances are
+vtterly abolyſhed / and menes tradicions ſee
+vp in the place of them. Thus ſeiſte thowe / 
+howe thy glorie &amp; honore that is due to the
+alone / is attributed and geueue to an Idole<g ref="char:EOLhyphen"/>of
+bread &amp; to their wicked Maumets. Thus
+feiſt thowe / howe the Saluacion / whiche is
+thorow faithe to be hoped &amp; looked for o<g ref="char:cmbAbbrStroke">̄</g>lye
+in the glorius paſſion / precius deathe / &amp; tri<g ref="char:EOLhyphen"/>umphant
+Reſurrecion of thy moſt dere ſo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+andour alone Sauiour &amp; Lord Ieſus <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+/ is nowe repoſed in the ſinfull merites of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipocrites
+/ in the iuterceſſion of Saintes<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:10925:29"/>
+in ceremonies / in the obſeruances of menes
+idle imaginacious &amp;c. Thus ſeiſt thow / how
+thy holy worde is ſet aſide and / mans doctri
+hathe the vppermoſt hand. Thus ſeiſt thow
+how thy holy myſteries are tomoch filtheli
+defiled of the ſwynyſhe Papiſtes. Thus<g ref="char:EOLhyphen"/>ſeiſt
+thowe / howe all thynges in the temples
+be done without edifieng. Nothyng is herad
+in them but boyng / bellowyng and blearing
+. Thus ſeiſt thowe / howe the fatherli Biſh
+oppes and faithfull paſtores are vniuſtli put
+out of their cures / depriued of all that they
+haue / banyſhed and handled like ſhepe appo<g ref="char:EOLunhyphen"/>ynted
+to the ſlaughter / and in the ſteade off<g ref="char:EOLhyphen"/>them
+whyte dawbed walles / paynted Se<g ref="char:EOLhyphen"/>pulckers
+full of all filthines &amp; abhominacio<g ref="char:cmbAbbrStroke">̄</g>
+/ blynde Phareſeis / ſubtile Hypocrites / vn<g ref="char:EOLhyphen"/>lea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned
+aſſes / Romyſhe foxes / Rawenyng<g ref="char:EOLhyphen"/>wolues
+/ Lordly Tyrantes / and ſuche Lyke
+peſtilences / are appoynted to rule ouer thy
+flocke. Thus ſeiſt thowe / howe thy poore &amp;
+myſerable thepe are moſt villy &amp; wrechedly
+handled of thes paſtors / Yea Idolles / theues
+/ Robbers / and murtherars / while they are
+compelled / wil they / nil they / to taſte of their
+peſtelent and poyſonfull paſtures / to eate of
+theyr phatiſaicall leauen / and to drynck of<g ref="char:EOLhyphen"/>their
+dirtie and myrie puddeles. Thus ſeiſt
+thowe / how the honorable Maryage of the
+Godly miniſters is vtterly co<g ref="char:cmbAbbrStroke">̄</g>demnede as A
+<pb facs="tcp:10925:29"/>
+thyng vnlawfull and vnmete for the mini<g ref="char:EOLhyphen"/>ſterie
+of thy worde and Sacramentes / and a
+bominable whordome frely ſuffered / borne<g ref="char:EOLhyphen"/>withe
+all / and wincked at.<note place="margin">Pſal. 79.</note> Thus ſeiſt thow
+/ howe the heathen are braſt iuto thyne heri<g ref="char:EOLunhyphen"/>tage
+/ haue defiled thy holy temple / and mad
+Ieruſalem an heape of ſtones. Ah Lorde.
+ſence the puttyng downe of thy holy religio<g ref="char:cmbAbbrStroke">̄</g>
+               <note place="margin">The miſer<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng<g ref="char:EOLhyphen"/>liſhe Chriſti<g ref="char:EOLhyphen"/>ans.</note>
+in England / we that profeſſe thy name / and
+wold gladly ſerue the accordi<g ref="char:cmbAbbrStroke">̄</g>g to thy bleſſed
+worde &amp; not after the fa<g ref="char:cmbAbbrStroke">̄</g>ſyes of men / which
+we know to be abominable in thy ſighte / are
+become an open ſhame vnto our enemies a<g ref="char:EOLhyphen"/>very
+ſcorne and veriſion vnto them / that are
+round about vs. They that hayte vs / ſpoile
+owre goodes.<note place="margin">Pſal. 44.</note> We are eaten vp like ſhepe.
+Yea ſo <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tim our dere frendes &amp; neighbours
+abhore vs and refuſe oure company ſo fear<g ref="char:EOLhyphen"/>full
+are they of liffe and goodes. A Very by
+worde are we become among the Papiſtes<g ref="char:EOLhyphen"/>and
+the vngodly people ſhake theire heades
+att vs. Owre ſoule is broughte lowe euen
+vnto the duſte / and oure bely clea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth to the
+grownde. For thy ſake are we killed all the<g ref="char:EOLhyphen"/>daye
+longe / &amp; are counted as ſhepe apoynted
+to be ſtayue. Vp Lorde? why ſleapeſt thow
+/ awake and caſte vs not of for euer. Whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore
+hideſte <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>howe thy face? Wilte thowe cle<g ref="char:EOLunhyphen"/>ane
+forget owr miſeri and oppreſſion: Ariſe
+o Lorde helpe vs &amp; deliuer vs for thy mercie
+<pb facs="tcp:10925:30"/>
+ſake. Ah Lorde howe / longe wilte thowe be
+angrye?<note place="margin">pſal. 79.</note> ſhall thy ielouſy burne like fire for<g ref="char:EOLhyphen"/>euer?
+Poure out thyne indinguacion vpon
+theh eathen whiche knowe the not / &amp; vpon
+the kyngdomes that call not vpon thy name.
+For they haue dewoured Iacobe / and Layde
+wayſte his dwellyng place. Oh remember
+not oure olde ſynnes but haue mercye vpon
+vs and that ſoune / for we are come to great
+myſery. Helpe vs / o God oure Sauioure / 
+for the glorie of thy name. O delyuer vs &amp;
+forgyue vs oure ſynnes for thy names ſake.
+Wherfor ſhall the heathen (The Papiſtes)
+ſaye / Where is nowe their God? Whereis<g ref="char:EOLhyphen"/>nowe
+theire Goſſpell? Oh / let the vengea<g ref="char:cmbAbbrStroke">̄</g>ns
+of thy ſeruautes blood that is ſhedde / be ope<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>lye
+ſhewed vpon the heathen in oure ſighte.
+Oh / let the ſorowſull ſyghiuges of the preſo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ners
+come before the / and accordynge to the<g ref="char:EOLhyphen"/>powr
+of thyne arme preſerue thoſe that are
+appoynted to dye.<note place="margin">Pſal. 80.</note> Steerre vp thy pawre / o
+Lorde / and come to helpe vs. Inrne to vs A
+gayne and ſhewe vs the lyghte of thy louyng
+counteuau<g ref="char:cmbAbbrStroke">̄</g>s / that we may be ſaued. O Lord
+God of hoſtes / howe longe wylte thowe be<g ref="char:EOLhyphen"/>angrye
+ouer the prayers of thy people? How
+longe wil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thowe fede theme that beleue in
+the with the bread of teares / and gyue them
+plentye of ſorowes to drynke? Howe longe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hal
+they be a laughing ſtock to the Papyſtes?
+<pb facs="tcp:10925:30"/>
+Howe longe ſhall thy viny<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rde be rooted<g ref="char:EOLhyphen"/>vp
+of the wylde bore / &amp; be dewoured of the / 
+veaſtes of the feilde? Howe longe ſhall <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire<g ref="char:EOLhyphen"/>hedges
+be brokene / that they whiche go by / 
+may plucke vp hir grapes? Howe long ſhall
+it be brent withe fire and lye vaiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e? O turn
+the agayne thow God of hoſtes / looke doune
+frome heauen / behoulde and viſete thy vin<g ref="char:EOLhyphen"/>yarde.
+Houlde not thy tonge / o God / kepe<g ref="char:EOLhyphen"/>not
+ſilence / refrayn not thy ſelffe o god.<note place="margin">pſal. 82.</note> For
+Lo / thyne enemies make a murmuryng / and
+they that hate the / lifte vp their heade. They
+imagine craftely agayuſte thy people / and<g ref="char:EOLhyphen"/>take
+councell agaynſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thy holyones. Come
+ſay they / lete vs root them out from among
+the people / that the name of Iſrael maye be<g ref="char:EOLhyphen"/>put
+out of remembrance. For they haue caſt
+their heades together withe one conſente / &amp;
+are confederate agaynſt the &amp; thy holyehword.
+They ſhame not to ſaye / We will haue the
+howſe of God in poſſeſſiou. We will haue<g ref="char:EOLhyphen"/>mene
+to beleue / as we liſte.<note place="margin">Pſal. 11.</note> Owre tong ſhal
+preuaile. We are they that oughte to ſpeake
+/ who is Lorde ower vs: As for the wordes<g ref="char:EOLhyphen"/>whiche
+the faithful preachars ſpeke vnto vs
+in the name of the Lorde / we will in no wiſe
+heare theme / but what ſo euer goethe out of
+oure awne mowihe / that will we do.<note place="margin">Iere. 44</note> We<g ref="char:EOLhyphen"/>will
+do ſacrifice and offer oblacions to the / 
+quene of heauen / lyk as we &amp; our forfathers / 
+<pb facs="tcp:10925:31"/>
+owre kinges and owre heades haue done in<g ref="char:EOLhyphen"/>the
+cities of Iuda and in the ſtretes and feldes
+of Ieruſalem. For the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r had we plentiuſnes<g ref="char:EOLhyphen"/>of
+vitailes. Then weare we in proſſperite / &amp;
+no miſfortune came vpon vs. But ſence we
+leaſt to offer &amp; to do ſacrifice vnto the Quen
+of heauen we haue hade ſcaccenes of all thin<g ref="char:EOLunhyphen"/>ges
+&amp; pery he with ſwerd and honger. It is
+but loſte laboure to ſerue God. O Lorde kep
+&amp; / preſerue vs frome this generacion for euer.<note place="margin">Malach. 3 Pſal. 11.</note>
+For they are a ſinfull people / which are o<g ref="char:EOLhyphen"/>uerladen
+withe blaſpehmies / a froward ge<g ref="char:EOLhyphen"/>neracion
+and wicked childern. They haue<g ref="char:EOLhyphen"/>forſaken
+the their Lorde God / they haue / 
+prouoked the holy one of Iſrael vnto anger &amp;
+are gone backwarde.<note place="margin">Eſa. 1.</note> There is no truthe in<g ref="char:EOLhyphen"/>their
+mouthes. Their throte is an open ſe<g ref="char:EOLhyphen"/>pulckere
+/ with their tonges thei diſceaue / the<note place="margin">Pſal. 5.</note>
+poyſone of adders is vnder their lippes / ther
+fete are ſwift to h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de i<g ref="char:cmbAbbrStroke">̄</g>nocent bloode. They
+eate vp and dewoure thy people as it weare
+breade. Diſtruccion and vnhappynes is in al
+theire doynges / but the waye of peace they<g ref="char:EOLhyphen"/>knowe<note place="margin">Pſal. 14.</note>
+not / for ther is no feare of God befor
+ther eies. O Lord God &amp; our moſte mercyful
+fath ere looke downe frome thy holy hill and
+co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſydere oure miſeries. Saue thy people o
+Lorde / and bleſſe thine heritage.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal. 28.</note> Gouerne<g ref="char:EOLhyphen"/>theme
+withe thy holy ſpi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ite / and lifte them
+vpe aboue theire enimies for euere.</p>
+            <p>
+               <pb facs="tcp:10925:31"/>
+Ryſe vpe o Lorde / and haue pitie on Sion
+/ for it is tyme / yea it is hye tyme for the to<g ref="char:EOLhyphen"/>haue
+pitie on hire.<note place="margin">pſal. 102.</note> O Lord lete it be thy plea
+ſure to deale fawarably with Sion / that the
+walles of Ieruſalem may be duylte.<note place="margin">Pſal. 51.</note> Builde
+vpe o Lorde / that ſpirituall howſe with lyu<g ref="char:EOLhyphen"/>ynge
+ſtones / wherof thy Sonne Chriſt is the
+foundaycion &amp; heade cornere ſtone.<note place="margin">1. Pete. 2.</note> Be that
+ſame good Lorde and mercifull God to thy<g ref="char:EOLhyphen"/>congregacion
+/ that thowe haiſte euere promi<g ref="char:EOLunhyphen"/>ſed
+to be.<note place="margin">Eſa. 66.</note> Comforte hire / as the louyng mo<g ref="char:EOLhyphen"/>there
+cheri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hethe hire tender babes. As a na<g ref="char:EOLunhyphen"/>turall
+mother can not forgett hire yonge one / 
+but that ſhe muſte nede<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e haue pitie on the<g ref="char:EOLhyphen"/>childe
+of hire wombe:<note place="margin">Eſa. 49.</note> Euen ſo / o Lord / petie
+thowe the congregacion of England / and by
+no meanes ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer the godly people therof to
+fall out of thy rem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>brancs. And although
+oure liffe be ſuche / that it rather deſeruethe
+puniſhment than reconcilement / anger than
+fawour / deſtruckcio<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h an preſeruacion / yet
+o Lorde God / we moſte humbly beſeche the<g ref="char:EOLhyphen"/>to
+forgyue vs dw<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es / and for thy names
+ſak yea for thy dere Chriſtis ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e mercy
+on vs and deale with vs accordynge to t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+olde accuſtomed goodnes. We haue nothing
+to offer vnto th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fatherly gentel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es / but o<g ref="char:cmbAbbrStroke">̄</g>ly
+owre Repentan<g ref="char:cmbAbbrStroke">̄</g>s / oure broken heartes and<g ref="char:EOLhyphen"/>trowbled<note place="margin">The Chriſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sacrifice.</note>
+ſprites / oure <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eares / oure <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+/ &amp; oure moſt ſorowfull ſupplycacion<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Thes<note place="margin">Pſal. 51.</note>
+               <pb facs="tcp:10925:32"/>
+we poure out before the mercifull throne of
+thy deuine maieſtie / in the name of Ieſus<g ref="char:EOLhyphen"/>Chriſte
+oure alone mediature and aduocate / 
+moſte humbly beſechyng the for his ſake / for
+his dignite and innocencie to haue mercie on
+the Godly Inhabitauntes of England / and
+on ſo many as vnfaynedly reuere<g ref="char:cmbAbbrStroke">̄</g>ce thy holy
+name / and withe true hearte loue the coming
+of oure Lorde Ieſus. Let it ſuffice / o Lorde<g ref="char:EOLhyphen"/>that
+ſence the deathe of owre moſt Chriſten<g ref="char:EOLhyphen"/>Kinge
+Edwarde the ſixte / thy faythfull ſeru
+ante vnto thys daye / thow haiſte for oure vn
+thankfulnes and wicked lyffe taken awaye<g ref="char:EOLhyphen"/>frome
+vs the holy and glorius goſſpel of thy
+dere ſonne Chriſte / and ſuffered hypocrites<g ref="char:EOLhyphen"/>to
+fede vs / yea rather to choke &amp; ſtrangle vs / 
+withe the peſtilent doctryne of menes tradi<g ref="char:EOLhyphen"/>cions.
+Looke vpon thyn holy annoyted / and
+for his ſake haue mercye on vs / bleſſe vs / and
+lighten thy cherful counte<g ref="char:cmbAbbrStroke">̄</g>ance vpon vs / that
+we Englythe men here on the earthe maye<g ref="char:EOLhyphen"/>ones
+againe knowe thy bleſſed wayes &amp; thy / 
+ſauyng healthe among all nacions.<note place="margin">Pſal. 67.</note> Let the<g ref="char:EOLhyphen"/>realm
+of Engla<g ref="char:cmbAbbrStroke">̄</g>d be ful of the knowleg of the
+Lord Ieſus / euen as though the water of the
+ſea ouerflowed the earth.<note place="margin">Eſa. 11.</note> Let thy word rune
+ſwyftly thorowe out all the borders of Eng<g ref="char:EOLhyphen"/>land.<note place="margin">Pſa. 148 Iere. 3. Eſa. 12.</note>
+Let the people therof drinke nomore of / 
+the dirtie and myrie puddels of the ſwynyſhe
+Papiſtes &amp; filthye Hypocrites / but let theme
+<pb facs="tcp:10925:32"/>
+withe ioye drawe water out of the welles<g ref="char:EOLhyphen"/>of
+that alone Sauioure / whiche ſaithe:<note place="margin">Iona. 7. Apoc. 21 Ioan. 4.</note> Iff
+any man thirſt / let hyme come vnto me and
+drinke. I will gyue to hyme that is athirſt of
+the well of water of lyffe frely. And whoſo
+euer ſhall drinke of the water that I ſhal giue
+hyme / ſhall neuer be more a thirſt / but the<g ref="char:EOLhyphen"/>water
+that I ſhall gyue / ſhall be in hyme a / 
+well of water / ſpringyng vp vnto euerlaſting
+lyffe. And that thy bleſſed worde maye haue
+the more fre paſſag / take away from vs thoſe
+Idolatrus Maſſmongers / thoſe idle latyne<g ref="char:EOLhyphen"/>
+               <note place="margin">Preachars</note>
+Humblers / thoſe ſhauen Madianites / thoſe
+Lordly loyterers / thoſe Wolues / thoſe The<g ref="char:EOLhyphen"/>ues
+/ Robbers / and Murtherars / whiche do
+nothyng elles than poyſon thy flocke / whome
+thy moſte dere Sonne purchaſed withe hys
+moſte Precious dere hearte bloode / and mak
+hawocke of thy ſely ſimple ſhepe by leadyng<g ref="char:EOLhyphen"/>them
+awaye frome the thorowe their vayne
+ſophiſtrie vnto the Dewill &amp; the pope / from
+thy holy worde and bleſſed ordenances vnto<g ref="char:EOLhyphen"/>the
+trifeling tradicions &amp; croked yea cankred
+conſtitucious of Hipocrites: And in the ſtead<g ref="char:EOLhyphen"/>of
+them place thow godly Byſhopes / learned
+Preachers / Chriſte<g ref="char:cmbAbbrStroke">̄</g> miniſters / Faithful tea<g ref="char:EOLhyphen"/>chers
+/ True ſpirituall Fathers / Louyng paſt<g ref="char:EOLhyphen"/>ors
+/ euen ſuche as will diligently ſeke vpe the<note place="margin">Ezech. 3. Ioan. 10. Act. 20.</note>
+loſte ſhepe / whom the woulyſhe Papiſtes in
+the tyme of their tira<g ref="char:cmbAbbrStroke">̄</g>ny haue moſt wrechedli
+<pb facs="tcp:10925:33"/>
+ſcattered abrode louyngly laye theme on his
+ſhoulders / and faithfully brynge them home<note place="margin">Luc. 15. Math. 24 Ti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us. 1.</note>
+agayne vnto the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>epe foulde / gyue thy howſ<g ref="char:EOLunhyphen"/>houlde
+meate in due ſeaſon / be able to erhorte
+withe wholſome doctryne / &amp; alſo to co<g ref="char:cmbAbbrStroke">̄</g>uince
+and ouercome them that ſpeake age<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſte it / 
+&amp; bre<g ref="char:cmbAbbrStroke">̄</g>n with aferue<g ref="char:cmbAbbrStroke">̄</g>t &amp; u<g ref="char:cmbAbbrStroke">̄</g>faied zele toward the
+ſettyng forthe thy glorye and the healthe of<g ref="char:EOLhyphen"/>thy
+people.<note place="margin">Sacrame<g ref="char:cmbAbbrStroke">̄</g>tes.</note>
+            </p>
+            <p>Send vs ageyn to the true miniſtracion off
+thy bleſſed Sacrame<g ref="char:cmbAbbrStroke">̄</g>ts / that we maye know
+what they are what they ſignifi &amp; preach vn<g ref="char:EOLunhyphen"/>to
+vs / yea &amp; that without the corupcio<g ref="char:cmbAbbrStroke">̄</g> of me<g ref="char:cmbAbbrStroke">̄</g>es
+tradicio<g ref="char:cmbAbbrStroke">̄</g>s / wherwith at this preſent they are
+moſt u<g ref="char:cmbAbbrStroke">̄</g>wortheli defiled of thes ſuiniſh &amp; filthi<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atin ſeruic</note>
+papiſtes. Take away from vs the Romiſh la<g ref="char:EOLhyphen"/>tin
+ſeruis / which the ſine<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed ſhauli<g ref="char:cmbAbbrStroke">̄</g>ges mu<g ref="char:cmbAbbrStroke">̄</g>ble
+in the te<g ref="char:cmbAbbrStroke">̄</g>ples befor thy people with out all E<g ref="char:EOLhyphen"/>difie<g ref="char:cmbAbbrStroke">̄</g>g<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cor. 14 <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oan. 4.</note>
+&amp; reſtoru<g ref="char:cmbAbbrStroke">̄</g>to vs our acuſto<g ref="char:cmbAbbrStroke">̄</g>ed co<g ref="char:cmbAbbrStroke">̄</g>on praiers
+in the Engliſh <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong that we may know what
+we pray / &amp; by this mea<g ref="char:cmbAbbrStroke">̄</g>es worſhyp the in ſpryt
+&amp; truth.<note place="margin">Maſſe</note> Banyshe out of the co<g ref="char:cmbAbbrStroke">̄</g>gergacio<g ref="char:cmbAbbrStroke">̄</g> that
+moſt vile &amp; ſtinking Idoll the Maſſe / &amp; reſtore
+vnto vs the holy &amp; bleſed Co<g ref="char:cmbAbbrStroke">̄</g>mu<g ref="char:cmbAbbrStroke">̄</g>io<g ref="char:cmbAbbrStroke">̄</g> / that we eat<g ref="char:EOLunhyphen"/>ing<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cor. 10.</note>
+together of one bread &amp; dri<g ref="char:cmbAbbrStroke">̄</g>aing of one cupe
+may reme<g ref="char:cmbAbbrStroke">̄</g>ber the Lordes death &amp; betha<g ref="char:cmbAbbrStroke">̄</g>kfull / 
+to the.</p>
+            <p>Pourge oure temples of all popyſhe abho<g ref="char:EOLhyphen"/>mynacions<note place="margin">ecremonies</note>
+/ of Cerimo<g ref="char:cmbAbbrStroke">̄</g>ies / of Images / of all<g ref="char:EOLhyphen"/>ters
+/ of copes / of veſtme<g ref="char:cmbAbbrStroke">̄</g>tes / of pixes / of croſes
+<pb facs="tcp:10925:33"/>
+of ſenſers / of holi vater bucketes / of holi bread
+baſketes / of Chriſmator<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> / &amp; aboue all of Ido<g ref="char:EOLunhyphen"/>latrus
+prieſtes &amp; vngodly ignora<g ref="char:cmbAbbrStroke">̄</g>te curates.</p>
+            <p>The propiciatori ſacrifis of the popiſh Maſſe<note place="margin">Akomina<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ons.</note>
+/ the wicked opiy<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of the corporal preſence of
+Chriſt in the Sacrame<g ref="char:cmbAbbrStroke">̄</g>tal bread / the receaui<g ref="char:cmbAbbrStroke">̄</g>g
+of the Sacrame<g ref="char:cmbAbbrStroke">̄</g>t vnder on kind / the i<g ref="char:cmbAbbrStroke">̄</g>terceſio<g ref="char:cmbAbbrStroke">̄</g>
+of Sayntes / the doctri<g ref="char:cmbAbbrStroke">̄</g>e of the Iuſtificacio<g ref="char:cmbAbbrStroke">̄</g> of<g ref="char:EOLhyphen"/>workes
+/ the popyſh purgatory / the wicked tra<g ref="char:EOLunhyphen"/>dicio<g ref="char:cmbAbbrStroke">̄</g>s
+of the Elders / with all vngodly cuſto<g ref="char:cmbAbbrStroke">̄</g>es
+&amp; ſtrange doctri<g ref="char:cmbAbbrStroke">̄</g>es take thoue / o good Lorde / a<g ref="char:EOLhyphen"/>waye
+from vs / &amp; teache vs vy thy holy Sprite<note place="margin">Deut. 4. 6. 12. Proue. 30<g ref="char:punc">▪</g> Eſa. 30. Luc. 1.</note>
+to walke o<g ref="char:cmbAbbrStroke">̄</g>ly in that waye / that thow haſte a<g ref="char:EOLhyphen"/>poi<g ref="char:cmbAbbrStroke">̄</g>ted
+/ &amp; by no mea<g ref="char:cmbAbbrStroke">̄</g>es to turne neyther on the
+righte ha<g ref="char:cmbAbbrStroke">̄</g>de nor on the lefte / but all blynd zeles
+and good e<g ref="char:cmbAbbrStroke">̄</g>tentes layde aſide / gyue vs grace to<g ref="char:EOLhyphen"/>ſerue
+the oure Lorde God in ſuche holynes &amp;
+Ryghtouſnes as is accepted before the / all the<g ref="char:EOLhyphen"/>dayes
+of owre lyffe.</p>
+            <p>O heaue<g ref="char:cmbAbbrStroke">̄</g>ly father &amp; moſte mercifull Lorde<g ref="char:EOLhyphen"/>preſerue
+and ſa<g ref="char:cmbAbbrStroke">̄</g>ct<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fye with thy holy ſpirite thy
+vniuerſall co<g ref="char:cmbAbbrStroke">̄</g>g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ega<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io<g ref="char:cmbAbbrStroke">̄</g> / <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:cmbAbbrStroke">̄</g>ly the faythful co<g ref="char:cmbAbbrStroke">̄</g>gre<g ref="char:EOLunhyphen"/>gacio<g ref="char:cmbAbbrStroke">̄</g>
+of Engla<g ref="char:cmbAbbrStroke">̄</g>d / that as in their baptime they
+haue giuen them ſelues ouer wholy vnto the / <note place="margin">Gods co<g ref="char:cmbAbbrStroke">̄</g>gr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gacione.</note>
+forſakyng the dewill / the worlde and the fleſhe
+withe all their workes / po<g ref="char:cmbAbbrStroke">̄</g>pes / luſtes &amp; va<g ref="char:cmbAbbrStroke">̄</g>ities
+/ &amp; haue ſworne to ſerue the with all that they
+ar able to mak / euen ſo they thorow thy grace
+maye a<g ref="char:cmbAbbrStroke">̄</g>ſwere to their profeſſio<g ref="char:cmbAbbrStroke">̄</g> &amp; liue according
+to their promyſe made in their baptime / e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ta<g ref="char:cmbAbbrStroke">̄</g>g
+<pb facs="tcp:10925:34"/>
+them ſelues withe no new / cou<g ref="char:cmbAbbrStroke">̄</g>terfai<g ref="char:cmbAbbrStroke">̄</g>cte and
+ſtrange religio<g ref="char:cmbAbbrStroke">̄</g> / nor yet defilyng them ſelues
+withe any vnrighteouſnes / but walkyng in<g ref="char:EOLhyphen"/>that
+only waye that thowe hayſt apoynted.</p>
+            <p>And ſuche as thorowe the ſtrenghe of thy
+Spirite abide full conſta<g ref="char:cmbAbbrStroke">̄</g>te &amp; ſtedfaſte in the<note place="margin">Stronge in<g ref="char:EOLhyphen"/>Chriſte.</note>
+co<g ref="char:cmbAbbrStroke">̄</g>feſio<g ref="char:cmbAbbrStroke">̄</g> of thi truth befor the worldli tira<g ref="char:cmbAbbrStroke">̄</g>tes
+and bel<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de hipocrites / o Lorde co<g ref="char:cmbAbbrStroke">̄</g>firm them
+in thy truthe thorowe the holy Gooſte / and
+giue theme grace to perſiſte and co<g ref="char:cmbAbbrStroke">̄</g>tinwe in
+it vnto the ende / that thowe mayſte be glori<g ref="char:EOLhyphen"/>fyed
+by them / and that the truthe of thy holy<note place="margin">Pſal. 17.</note>
+worde maye the more earneſtly be receauyd
+/ embraced and beleued of the Chriſte<g ref="char:cmbAbbrStroke">̄</g> weak<g ref="char:EOLhyphen"/>lynges.
+O howld thow vp their goynges in
+thy pathes / that their foote ſteppes ſlipe not.
+Thow haſte deliuered them from ſtinkyng
+Sodome / ſuffer them no more to look backe
+towarde it. Thow by the mightie powre &amp;<g ref="char:EOLhyphen"/>out
+ſtreached arme haſt brought them out of
+ſinfull Egepte / &amp; haſte fedde them withe the
+Heue<g ref="char:cmbAbbrStroke">̄</g>ly mana / ſuffer them nomore ſomoche
+as ones to haue a luſte to returne vnto that<g ref="char:EOLhyphen"/>lande
+of bo<g ref="char:cmbAbbrStroke">̄</g>dage / nor to haue a deſire to ſitte
+amo<g ref="char:cmbAbbrStroke">̄</g>ge the greaſy fleſhe pottes of Egepte / &amp;<g ref="char:EOLhyphen"/>to
+eate of the fiſhes / melons / cowcu<g ref="char:cmbAbbrStroke">̄</g>bers / gar<g ref="char:EOLunhyphen"/>leke / o<g ref="char:cmbAbbrStroke">̄</g>yones / lekes / &amp;c / wherwith the filthe
+Egepcia<g ref="char:cmbAbbrStroke">̄</g>s are fedde. They haue viſited &amp; ſene
+Chriſt thy So<g ref="char:cmbAbbrStroke">̄</g>ne &amp; oure Kinge,<note place="margin">Math. 2.</note> ſuffer them
+nomor to return vnto wicked Kinge Herode.
+<pb facs="tcp:10925:34"/>
+They haue put theyr hande to the ploughe
+/ graunt that they neuer looke backe agayne<note place="margin">Luc. 9.</note>
+/ but preſerue co<g ref="char:cmbAbbrStroke">̄</g>tine we &amp; go forwarde vnto<g ref="char:EOLhyphen"/>the
+ende. They haue eſcaped from the filthe<g ref="char:EOLunhyphen"/>nes
+of the world thorow the knowleg of the
+&amp; of our Sawyour Ieſu Chriſt / ſuffer them
+nomor to be enta<g ref="char:cmbAbbrStroke">̄</g>gled therin &amp; owercoo<g ref="char:cmbAbbrStroke">̄</g>e / leſt
+the latter ende be worſe the<g ref="char:cmbAbbrStroke">̄</g> the begynnyng.
+For it had bene better not to haue knowue<g ref="char:EOLhyphen"/>the<note place="margin">2. Pete. 2.</note>
+waye of rightouſnes / tha<g ref="char:cmbAbbrStroke">̄</g> after they haue
+knowe<g ref="char:cmbAbbrStroke">̄</g> it to turne fro<g ref="char:cmbAbbrStroke">̄</g>e the holy co<g ref="char:cmbAbbrStroke">̄</g>ma<g ref="char:cmbAbbrStroke">̄</g>ndeme<g ref="char:cmbAbbrStroke">̄</g>t
+that is geuen them. So myght it be ſaide of<g ref="char:EOLhyphen"/>them
+accordinge to the true prouerbe: The<g ref="char:EOLhyphen"/>dogge
+is tuked to his vomite agayne and the
+ſowe that was waſhede to hire walowinge<g ref="char:EOLhyphen"/>in<note place="margin">Prouerb. 26.</note>
+the myre.</p>
+            <p>The weakeli<g ref="char:cmbAbbrStroke">̄</g>ges and ſuche as are not yet<note place="margin">vveakli<g ref="char:cmbAbbrStroke">̄</g>ges Ruges</note>
+perfectly ſtablyſhed in thy true relygeo<g ref="char:cmbAbbrStroke">̄</g> / but<g ref="char:EOLhyphen"/>like
+redes wauer with euery wind of doctri<g ref="char:cmbAbbrStroke">̄</g> / 
+o Lord co<g ref="char:cmbAbbrStroke">̄</g>firm thow &amp; mak them thorowly
+ſtro<g ref="char:cmbAbbrStroke">̄</g>g in the knowledg of thy truth that they
+withe a co<g ref="char:cmbAbbrStroke">̄</g>ſta<g ref="char:cmbAbbrStroke">̄</g>te faythe &amp; luſtie courage maye
+both beleue &amp; co<g ref="char:cmbAbbrStroke">̄</g>feſſe the befor the tyra<g ref="char:cmbAbbrStroke">̄</g>tes of
+the world / that thow alou art the Lorde and
+that ther is no truth neceſſari vnto ſaluacio<g ref="char:cmbAbbrStroke">̄</g>
+/ but that only / whiche is contayned in thy<g ref="char:EOLhyphen"/>holy
+Scriptures.<note place="margin">Gods profo<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ners.</note>
+            </p>
+            <p>To them that are in bondes for the co<g ref="char:cmbAbbrStroke">̄</g>feſ<g ref="char:EOLhyphen"/>ſiou
+of thy truthe gyue thowe grace / o moſte
+louyng Lorde / to reioyſe / that they be cou<g ref="char:cmbAbbrStroke">̄</g>ted
+<pb facs="tcp:10925:35"/>
+worthy of thy fatherly goodnes to ſuffer Re<g ref="char:EOLunhyphen"/>buke
+/ iufamy / epreſo<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:cmbAbbrStroke">̄</g>t / loſſe of goodes &amp;c<note place="margin">Acto. 5.</note>
+/ for the name of the Lorde Ieſu / &amp; to be per<g ref="char:EOLhyphen"/>ſuaded
+that the affliccio<g ref="char:cmbAbbrStroke">̄</g>s of this liffe are not
+wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thi of the glori / which ſhal be ſhewed vp<g ref="char:EOLhyphen"/>on<note place="margin">Roma. 8.</note>
+the So<g ref="char:cmbAbbrStroke">̄</g>nes of God in tyme to come / not<g ref="char:EOLhyphen"/>withſta<g ref="char:cmbAbbrStroke">̄</g>dyng
+that their trouble / whiche is / 
+ſhorte &amp; lighte preparethe an excedyng and<g ref="char:EOLhyphen"/>eternall<note place="margin">2. Cor. 4</note>
+waighte of glory vnto them / whiche
+looke not on the thynges which are ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e / but
+on the thynges whiche are not ſene: Agene / 
+that if they dye withe Chriſt / they ſhall allſo
+lyue withe.<note place="margin">2. Timo 2</note> Chriſt / and if they ſuffer withe<g ref="char:EOLhyphen"/>Chriſt / 
+they ſhall alſo reigne withe Chriſt.
+And as for them that for fear of liff or loſſ of
+goodes / or els for pleaſyng the hy<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> powres<g ref="char:EOLhyphen"/>are<note place="margin">Back ſliders for <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>are.</note>
+outwardly gone frome thy true relygio<g ref="char:cmbAbbrStroke">̄</g> / 
+and withe their bodyes ſerue Baal / yea and
+that agenſt their owne co<g ref="char:cmbAbbrStroke">̄</g>ſcie<g ref="char:cmbAbbrStroke">̄</g>ce / wha<g ref="char:cmbAbbrStroke">̄</g> in their
+heartes they wiſhe all Idolatrous &amp; ſtrange
+worſhippinges vtterly to be abolyſhed / that<g ref="char:EOLhyphen"/>thowe
+alone mighteſt be glorified &amp; honored:
+we moſte humbly beſeche the to pardo<g ref="char:cmbAbbrStroke">̄</g> their
+imperfeccio<g ref="char:cmbAbbrStroke">̄</g>s / and to forgiue their i<g ref="char:cmbAbbrStroke">̄</g>firmetes
+/ which by the prophet ſpeaketh of thi So<g ref="char:cmbAbbrStroke">̄</g>ne
+co<g ref="char:cmbAbbrStroke">̄</g>cer<g ref="char:cmbAbbrStroke">̄</g>ynge the weake &amp; feareful on thys ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ner:<note place="margin">Eſa. 42.</note>
+A br<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſed Reed ſhall he not breake / and
+flaxe that begynnthe to burne / he ſhall not / 
+quenche.<note place="margin">Math. 12. Marc. 9.</note> O Lorde healpe their vnbeleffe. En<g ref="char:EOLunhyphen"/>creaſe
+their faythe. Make them ſtro<g ref="char:cmbAbbrStroke">̄</g>ge with
+<pb facs="tcp:10925:35"/>
+thy holy / Spirite / that that whiche they in
+wardly beleue theim ay outwardli confeſſe &amp;
+worke accordyngly / thoughe loſſe bothe off
+goodes and lyffe do enſeue. Syue theme
+grace allwayes to haue before theire Eyes
+theis ſayenges of thy dere Sonne and oure
+louyng Sauyoure Chriſte Ieſu:<note place="margin">Math. 16.</note> If any man
+will folowe me / lete hime forſake hime ſelffe
+and take vp his croſſe and followe me. For
+whoſo euere will ſaue hys lyffe / ſhall loſſe
+it. And who ſo euere ſhal looſe hys lyffe for
+my ſake / ſhall fynde it. What ſhall it proffyt
+a man thoughe he ſhuld winne all the whole
+world / yf he leſe hys oun ſoul? or what ſhall
+a man giue to redeme / hys ſoule agayne with
+all?<note place="margin">Marc. 10</note> Item / uerely I ſaye vnto youe / there is
+no man that forſake the howſe / or brethern
+or ſiſters / or father or mother / or wiffe or
+children / or landes / for my ſake and the Goſ<g ref="char:EOLhyphen"/>ſpeles
+/ whiche ſhall not receaue an hondered
+foulde / nowe in this lyffe / howſes and bre<g ref="char:EOLhyphen"/>therne
+/ and ſiſters / and mothers and childre<g ref="char:cmbAbbrStroke">̄</g>
+and landes / withe perſecucions / and in the<g ref="char:EOLhyphen"/>worlde
+to come euerlaſtyng lyffe. Ageyn / 
+who ſo euer ſhall confeſſe me befor menne
+hyme will I confeſſe allſo before my fathere
+whiche is in heauen.<note place="margin">Math. 10</note> But who ſo euere ſhal
+be aſhamed of me and of my wordes among<note place="margin">Marc. 8.</note>
+thys aduouterous and ſynnfull genaracion
+of hyme ſhall the Sonne of man be aſhamed
+<pb facs="tcp:10925:36"/>
+whan he comethe in the glory of hys father
+withe the holy Angeles.</p>
+            <p>Nowe as touchyng the enemies of thy
+worde / wherof ſome ſynne of ignorance and<note place="margin">Enemies to the Goſp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll for lacke of Knovule<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g</note>
+for lacke of knowleg / ſome agayn of obſtynat
+malyce and pretenſed hate and make warre
+agaynſte thy true relygeon / we moſte humb<g ref="char:EOLunhyphen"/>ly
+beſeche the for Chriſtis ſake fauorably to
+beholde theme that ignorantly and of a blind
+zeale toward the tradicions of their Elders
+and not of a malicious hearte hate the
+Goſpell of thy dere Sonne and perſecut the
+Preachers of the ſaine. Bryng theme / O
+Lorde / into the knowlege of their erroures
+and blyndnes / that they maye repent / beleue
+and amende / which madeſt Saul of a wolff
+a lambe / of a perſecutore a Preacher / and of
+a Tyrante an Apoſtele.<note place="margin">Act. 9.</note> Make theme of the
+enemyes of thy truthe / erneſte louers and
+feruent embraſers of thy truthe.<note place="margin">Eſechi.</note> Turne
+their harde and ſtony hearte in to a fleſhlye
+ſofte and gentle hearte.<note place="margin">Matsh. 9</note> Make theme uwe
+bottles apte to receaue then we / ſwete / and
+pleaſaunte wine of the Goſpel. Make them
+as zelous in ſettyng forthe the truthe of thy
+worde / as they haue hertofore bene in the a
+vauncement of the blynde and vnfrutefull
+tradicions of mene. Be merciful vnto them
+bleſſe theme / and lyghten thy countenauns
+vpon theme / that they may know thy waies<note place="margin">Pſal. 67.</note>
+               <pb facs="tcp:10925:36"/>
+and thy ſauyng healthe. Replynyſhe theme / 
+withe thy holy ſpirite and withe the graces
+of the ſame / that as they are thy creatures
+withe vs / ſo they maye be ſaued withe vs.</p>
+            <p>But thoſe / O Lorde / whiche are thy
+ſworne enemyes and of a ſett purpoſe euen<note place="margin">Enemies to the Goſpell of ſet malic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+ageynſte their owne conſcience and contrary
+to their knowlege perſecute the gloryus Goſ<g ref="char:EOLunhyphen"/>ſpell
+of thy derely beloued ſonne and the tru
+fauourers of the ſame / and will by no mea<g ref="char:cmbAbbrStroke">̄</g>es
+be reconciled / nor leane vnto the truthe / but
+go for the dayly more and more to hinder the
+fre and ioyefull paſſage of thy holy wored / &amp;
+to withdrawe ſo many as they can frome be<g ref="char:EOLhyphen"/>leuyng
+/ receauyng and embraſyng the ſame<note place="margin">i, Ioan. 5.</note>
+ſeyng they ſynne the ſynne vnto deathe and
+are not to be conuerted) O Lorde / haiſte the
+to root theme vp from the face of the Earthe
+that they be nomore ſtomblyng blockes to
+the weake Chriſtians. Deſtroie thow them</p>
+            <p>O God / let them peryſhe thoroughe theyr
+owne imaginacions.<note place="margin">Pſal. 5.</note> Caſte them out in the
+multitud of thier vngodlynes / for they haue
+rebelled ageynſte the. Rayne thowe ſnares
+fyre / brimſton / ſtorme and tempeſte / vpon
+them / let this be their porcion to drincke.<note place="margin">Pſal. 11.</note> Let
+them be confounded and put to ſhame / that
+ſeke after the lyues of the faithfull. O let
+them be turned backe and broughte to confu<g ref="char:EOLhyphen"/>ſion<note place="margin">Pſal. 37.</note>
+/ that imagine miſchefe ageynſte theme
+<pb facs="tcp:10925:37"/>
+Let them be as duſte befor the wynd / and the
+Angel of the Lord ſcatteri<g ref="char:cmbAbbrStroke">̄</g>g them. Let their
+way be dark and ſlippery / and let thy Angel
+o Lord / perſecut them. Yea let ſoden diſtruc<g ref="char:EOLunhyphen"/>cion
+com vpon them vnwares / and the netes
+that they haue layde preuely / cathe them
+ſelues / that they maye faull into theye own
+myſcheff. Let the ſw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdes that they drawe / 
+out go thorowe their owne heartes / and the
+howes that they haue be<g ref="char:cmbAbbrStroke">̄</g>ded ſlea them ſelues</p>
+            <p>Let the armes of the vngodly be broken / &amp;
+let the wicked peryſhe and conſume as the / 
+fatte of lambes / yea as ſmoke let them con<g ref="char:EOLhyphen"/>ſume
+awaye.<note place="margin">pſal. 52</note> Deſtroye them for euer / and / 
+plucke the out of their dweli<g ref="char:cmbAbbrStroke">̄</g>g and root them
+out of the lande of the liuyng.<note place="margin">pſal. 59</note> Breake their
+teethe (O God) in their mouthes / ſmyte the
+chawe bones of the Lions / o Lorde / let them
+faullawaye lyke water that rune the apace / 
+and whane they ſhout arowes / let them be
+rooted out / let them conſume awaye lyke a
+ſnayle / and be lyke the vntymly frute of a / 
+womane / and let them not ſe the Sunne.</p>
+            <p>Stande vp o Lorde God of hoſtes / thowe / 
+God of Iſrael / to viſite all heathen / and be / <note place="margin">Pſal. 59.</note>
+not mercifull vnto them / that offend of ma<g ref="char:EOLhyphen"/>licious
+wickednes.<note place="margin">pſal. 69.</note> Poure out thyne inding<g ref="char:EOLhyphen"/>nacion
+vpon them / and let thy wrathfull diſ<g ref="char:EOLhyphen"/>pleaſure
+take houlde of them. Let them be / 
+combred with ſhame and diſhonore that ſeke<note place="margin">pſal. 71.</note>
+               <pb facs="tcp:10925:37"/>
+to do thy people euill. Do thowe to them as
+vnto the Madianets / vnto Siſeraand vnto<note place="margin">pſal. 33.</note>
+Iabin at the broke of Kiſon / which periſhed
+at Endor / &amp; became as the dong of the earthe</p>
+            <p>In fin.<note place="margin">Pſal. 129.</note> Let them be confounded and turn<g ref="char:EOLunhyphen"/>ned
+backwarde / as many as haue euill will
+at Sio<g ref="char:cmbAbbrStroke">̄</g>. Let them be euen as the graſe grow<g ref="char:EOLunhyphen"/>yng
+vpon the howſe toppes / whiche withe
+rethe afore it be plucked vp. But let al thoſe
+that loue the and thy bleſſed worde / be ioy<g ref="char:EOLhyphen"/>full
+/ mery and glade. Let them continwe / 
+proſſper / floryſhe and tryumphe in the their
+Lorde God for euere. Let their ioy &amp; mirthe
+be founde and euerlaſtyng / euen ſuche ioye &amp;
+mirthe as no man ſhall be able to take away
+from them. Let ſtinkyng Babilon faull
+downe / and let the newe and heuenly Ieru<g ref="char:EOLhyphen"/>ſalem
+be buylte vp ageyn.<note place="margin">Apoc. 18.</note> Let the venomus
+dragon / that filthy beaſie / that fals Prophet
+and that purpled whore of Babilon ſhortly
+come to confuſion / that all the glory may be
+gyuen to the Lambe that ſittehe with the in
+the throne.<note place="margin">Apoc. 12 13. 19. 21.</note> Kill Antichriſte that Sonne off
+perdicion withe the breathe of thy mouthe / 
+that thow alone mayſt be knowen to be the
+Lorde.<note place="margin">Apoc. 7.</note> O moſte louyng Lorde and owre
+heuenly father / whan thow ſhalte deliuere<note place="margin">pſal. 53.</note>
+thy people out of captiuitie / then ſhall Iacob
+reioyſe and Iſraell be ryghte glade.<note place="margin">2. theſſ. 2</note> Yea then
+ſhall the mowthe of the faythfull be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illed / 
+<pb facs="tcp:10925:38"/>
+withe laughter / and their tonge withe ioye.
+we therfor moſt humbly beſeche the (o Lord)<note place="margin">pſal. 126.</note>
+to turne oure captiuitie as the riuers in the
+Southe / that they whiche ſowe in teares / 
+may reape in ioye. Turne the agen / o Lorde
+at the laſte / &amp; be gracious vnto thy ſerua<g ref="char:cmbAbbrStroke">̄</g>tes.<note place="margin">Pſal. 90.</note>
+O ſatiſfye vs withe thy mercye &amp; that ſone
+ſo ſhall we reioyſe &amp; be gladde all the dayes
+of oure lyffe. Comforte vs agen nowe after
+the tyme that thow haſte plaged vs / and for
+the yeres wherin we haue ſuffred aduerſite</p>
+            <p>So ſhall we withe ioyfull heartes &amp; mery
+voices ſyng co<g ref="char:cmbAbbrStroke">̄</g>tinuall prayſes to thy glorious
+&amp; bliſſed name / which with thy only begotte<g ref="char:cmbAbbrStroke">̄</g>
+So<g ref="char:cmbAbbrStroke">̄</g>ne Ieſu Chriſt oure alone Sauioure
+and withe the holy Ghoſte that moſte
+ſwete Co<g ref="char:cmbAbbrStroke">̄</g>fortour lyueſt &amp; reigneſt
+one / alone / true / lyuyng / imor<g ref="char:EOLhyphen"/>tall
+and Euerlaſtyng God
+worlde withe oute
+ende
+AMEN.</p>
+            <q>
+               <bibl>Pſal. 70.</bibl>
+               <p>Let all ſuche / o Lorde / as de<g ref="char:EOLhyphen"/>lyghte
+in thy ſaluacio<g ref="char:cmbAbbrStroke">̄</g> / 
+ſaye allwaye.</p>
+            </q>
+            <trailer>THE LORD BE PRAYSED.
+(?)</trailer>
+            <pb facs="tcp:10925:38"/>
+         </div>
+      </body>
+   </text>
+</TEI>
